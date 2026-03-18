@@ -1,0 +1,23 @@
+{
+    "name": "No Money to Cultivate Immortality",
+    "short_name": "NMTCI",
+    "description": "Read the unofficial fan translation of No Money to Cultivate Immortality.",
+    "start_url": "/nmtci/",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#333333",
+    "icons": [
+        {
+            "src": "/nmtci/assets/icons/web-app-manifest-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/nmtci/assets/icons/web-app-manifest-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

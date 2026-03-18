@@ -1,0 +1,39 @@
+title: No Money To Cultivate Immortality
+description: Unofficial Fan Translation
+url: "https://thundergod95.github.io"
+baseurl: "/nmtci"
+lang: en
+encoding: "utf-8"
+
+plugins:
+    - jekyll-sitemap
+
+defaults:
+    - scope:
+          path: "translations"
+      values:
+          layout: "chapter"
+          sitemap: true
+
+markdown: kramdown
+kramdown:
+    smart_quotes: "lsquo,rsquo,ldquo,rdquo"
+    auto_ids: true
+    parse_block_html: true
+permalink: pretty
+
+exclude:
+    - vendor/
+    - .bundle/
+    - .sass-cache/
+    - Gemfile
+    - Gemfile.lock
+    - _tools/
+    - node_modules/
+    - scripts
+    - README.md
+    - LICENSE
+    - bundled
+    - assets/glossary.json
+    - assets/glossary-schema.json
+    - .github

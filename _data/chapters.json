@@ -1,0 +1,5006 @@
+[
+  {
+    "id": 1,
+    "title": "The Interview",
+    "url": "/nmtci/translations/001",
+    "date": "2026-02-01"
+  },
+  {
+    "id": 2,
+    "title": "School",
+    "url": "/nmtci/translations/002",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 3,
+    "title": "Physical Education",
+    "url": "/nmtci/translations/003",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 4,
+    "title": "Inviting a Deity",
+    "url": "/nmtci/translations/004",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 5,
+    "title": "The Feather Book",
+    "url": "/nmtci/translations/005",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 6,
+    "title": "Freedom",
+    "url": "/nmtci/translations/006",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 7,
+    "title": "The Difference Between People",
+    "url": "/nmtci/translations/007",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 8,
+    "title": "The Teacher's Concern",
+    "url": "/nmtci/translations/008",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 9,
+    "title": "Work",
+    "url": "/nmtci/translations/009",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 10,
+    "title": "Fierce Competition and Level Three Body-Strengthening",
+    "url": "/nmtci/translations/010",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 11,
+    "title": "Celestial Cycle Qi-Gathering",
+    "url": "/nmtci/translations/011",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 12,
+    "title": "Valiant Progress",
+    "url": "/nmtci/translations/012",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 13,
+    "title": "The Magic Power Competition",
+    "url": "/nmtci/translations/013",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 14,
+    "title": "Preparations and a New Job",
+    "url": "/nmtci/translations/014",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 15,
+    "title": "The Central Tower",
+    "url": "/nmtci/translations/015",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 16,
+    "title": "Patrol",
+    "url": "/nmtci/translations/016",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 17,
+    "title": "Scores and Secrets",
+    "url": "/nmtci/translations/017",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 18,
+    "title": "Celestial Paragon’s Martial Demonstration Scroll",
+    "url": "/nmtci/translations/018",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 19,
+    "title": "Terror and the Dao Heart",
+    "url": "/nmtci/translations/019",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 20,
+    "title": "Insight",
+    "url": "/nmtci/translations/020",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 21,
+    "title": "Heavenly Martial Heart-Tempering",
+    "url": "/nmtci/translations/021",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 22,
+    "title": "The Contract",
+    "url": "/nmtci/translations/022",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 23,
+    "title": "Negotiations",
+    "url": "/nmtci/translations/023",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 24,
+    "title": "Spiritual Root",
+    "url": "/nmtci/translations/024",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 25,
+    "title": "Qi sea",
+    "url": "/nmtci/translations/025",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 26,
+    "title": "Registering for the Magic Power Competition and the Coming Monthly Exam",
+    "url": "/nmtci/translations/026",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 27,
+    "title": "Pre-Exam Sprint",
+    "url": "/nmtci/translations/027",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 28,
+    "title": "Daoist Arts and Practical Combat",
+    "url": "/nmtci/translations/028",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 29,
+    "title": "Combat Examination",
+    "url": "/nmtci/translations/029",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 30,
+    "title": "A Contest of Palm Force and the Dao Heart Examination",
+    "url": "/nmtci/translations/030",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 31,
+    "title": "Spirit Realm",
+    "url": "/nmtci/translations/031",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 32,
+    "title": "Magic power and Physical Education",
+    "url": "/nmtci/translations/032",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 33,
+    "title": "The Physical Exam and Wang Hai's Strategy",
+    "url": "/nmtci/translations/033",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 34,
+    "title": "The Results Are In, A Top Student Emerges",
+    "url": "/nmtci/translations/034",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 35,
+    "title": "Choices and Cultivation Techniques",
+    "url": "/nmtci/translations/035",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 36,
+    "title": "The Grade-A Contract",
+    "url": "/nmtci/translations/036",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 37,
+    "title": "A Net Cast from Heaven and Earth",
+    "url": "/nmtci/translations/037",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 38,
+    "title": "Level 10 Celestial Cycle Qi-Gathering Method",
+    "url": "/nmtci/translations/038",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 39,
+    "title": "Heart Art",
+    "url": "/nmtci/translations/039",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 40,
+    "title": "The Joyful Heart Art and Magic Power Competition Tutoring",
+    "url": "/nmtci/translations/040",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 41,
+    "title": "The Conspiracy and the Start of the Magic Power Competition",
+    "url": "/nmtci/translations/041",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 42,
+    "title": "The Magic Power Competition Roster",
+    "url": "/nmtci/translations/042",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 43,
+    "title": "The Alliance and the Magic Power Competition's First Trial",
+    "url": "/nmtci/translations/043",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 44,
+    "title": "Flying Sword",
+    "url": "/nmtci/translations/044",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 45,
+    "title": "Purple Cloud Supplements",
+    "url": "/nmtci/translations/045",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 46,
+    "title": "The Mountain",
+    "url": "/nmtci/translations/046",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 47,
+    "title": "Contention",
+    "url": "/nmtci/translations/047",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 48,
+    "title": "The Top Ten!",
+    "url": "/nmtci/translations/048",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 49,
+    "title": "Limitless Cloud Hand",
+    "url": "/nmtci/translations/049",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 50,
+    "title": "Changes and Upping the Ante",
+    "url": "/nmtci/translations/050",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 51,
+    "title": "Surging Undercurrents",
+    "url": "/nmtci/translations/051",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 52,
+    "title": "The Monthly Exam Ends, A Storm Gathers",
+    "url": "/nmtci/translations/052",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 53,
+    "title": "Heavenly Martial Heart-Tempering",
+    "url": "/nmtci/translations/053",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 54,
+    "title": "Zhang Yu's Choice",
+    "url": "/nmtci/translations/054",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 55,
+    "title": "The Divine Assistant Assessment",
+    "url": "/nmtci/translations/055",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 56,
+    "title": "Passing the Assessment and Heading to Songyang",
+    "url": "/nmtci/translations/056",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 57,
+    "title": "Upperclassman",
+    "url": "/nmtci/translations/057",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 58,
+    "title": "Pressure",
+    "url": "/nmtci/translations/058",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 59,
+    "title": "The Strongest First-Year",
+    "url": "/nmtci/translations/059",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 60,
+    "title": "Talisman Tome",
+    "url": "/nmtci/translations/060",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 61,
+    "title": "Worshipping a God",
+    "url": "/nmtci/translations/061",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 62,
+    "title": "Annihilation, and a Friend",
+    "url": "/nmtci/translations/062",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 63,
+    "title": "Changes",
+    "url": "/nmtci/translations/063",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 64,
+    "title": "Martial Arts Tutoring",
+    "url": "/nmtci/translations/064",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 65,
+    "title": "Exhausting the Savings",
+    "url": "/nmtci/translations/065",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 66,
+    "title": "The Competition Begins",
+    "url": "/nmtci/translations/066",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 67,
+    "title": "The Gap, The Scoring",
+    "url": "/nmtci/translations/067",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 68,
+    "title": "Grouping",
+    "url": "/nmtci/translations/068",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 69,
+    "title": "Hidden Spiritual Root",
+    "url": "/nmtci/translations/069",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 70,
+    "title": "Suppression",
+    "url": "/nmtci/translations/070",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 71,
+    "title": "Quarterfinals",
+    "url": "/nmtci/translations/071",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 72,
+    "title": "A Bloody Battle",
+    "url": "/nmtci/translations/072",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 73,
+    "title": "A Raging Storm",
+    "url": "/nmtci/translations/073",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 74,
+    "title": "Poor, The Semifinals",
+    "url": "/nmtci/translations/074",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 75,
+    "title": "Dragonback Mountain Toppler",
+    "url": "/nmtci/translations/075",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 76,
+    "title": "The Final Two Emerge",
+    "url": "/nmtci/translations/076",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 77,
+    "title": "The Most Powerful Move",
+    "url": "/nmtci/translations/077",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 78,
+    "title": "Champion",
+    "url": "/nmtci/translations/078",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 79,
+    "title": "Song Hailong Wants Me to Be His Coach",
+    "url": "/nmtci/translations/079",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 80,
+    "title": "Cultivation Technique, Cultivation",
+    "url": "/nmtci/translations/080",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 81,
+    "title": "Competition Slots",
+    "url": "/nmtci/translations/081",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 82,
+    "title": "Level 10, Part-Time Job",
+    "url": "/nmtci/translations/082",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 83,
+    "title": "Part-time Job, Moments",
+    "url": "/nmtci/translations/083",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 84,
+    "title": "Transplant",
+    "url": "/nmtci/translations/084",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 85,
+    "title": "Competing, Advertisement",
+    "url": "/nmtci/translations/085",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 86,
+    "title": "The Photoshoot and a Lesson for He Dayou",
+    "url": "/nmtci/translations/086",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 87,
+    "title": "Negotiating with the Evil God",
+    "url": "/nmtci/translations/087",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 88,
+    "title": "The Dark World of Tutoring",
+    "url": "/nmtci/translations/088",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 89,
+    "title": "The Dark Side of Kunxu",
+    "url": "/nmtci/translations/089",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 90,
+    "title": "Fast-Learning Martial Arts",
+    "url": "/nmtci/translations/090",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 91,
+    "title": "Dark Learning Gang, Trial Class",
+    "url": "/nmtci/translations/091",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 92,
+    "title": "Advanced Experience from a Key High School",
+    "url": "/nmtci/translations/092",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 93,
+    "title": "Zhang Yu's Secret",
+    "url": "/nmtci/translations/093",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 94,
+    "title": "Zhang Yu's Temptation",
+    "url": "/nmtci/translations/094",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 95,
+    "title": "Preparation, Dropping the Class",
+    "url": "/nmtci/translations/095",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 96,
+    "title": "What Got In?",
+    "url": "/nmtci/translations/096",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 97,
+    "title": "Borrowing Zhen's Spiritual Root",
+    "url": "/nmtci/translations/097",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 98,
+    "title": "Yu-boy, I've Decided Not to Rent an Apartment!",
+    "url": "/nmtci/translations/098",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 99,
+    "title": "The Appointed Time, Vying for Competition Spots",
+    "url": "/nmtci/translations/099",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 100,
+    "title": "A Comparison of Strength—Join the Special Training Program?",
+    "url": "/nmtci/translations/100",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 101,
+    "title": "A Concealment Talisman and the Eve of the Competition",
+    "url": "/nmtci/translations/101",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 102,
+    "title": "The Competition Arrives",
+    "url": "/nmtci/translations/102",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 103,
+    "title": "The Extension of the Corporate Battlefield",
+    "url": "/nmtci/translations/103",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 104,
+    "title": "A Sea of Voices",
+    "url": "/nmtci/translations/104",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 105,
+    "title": "Can I Touch You?",
+    "url": "/nmtci/translations/105",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 106,
+    "title": "Zhang Yu, Level 4.95",
+    "url": "/nmtci/translations/106",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 107,
+    "title": "Physical Strength Ranking",
+    "url": "/nmtci/translations/107",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 108,
+    "title": "Agility",
+    "url": "/nmtci/translations/108",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 109,
+    "title": "If You're a Brother, Come Borrow Money",
+    "url": "/nmtci/translations/109",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 110,
+    "title": "The Contest of Speed",
+    "url": "/nmtci/translations/110",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 111,
+    "title": "Challenging Yu Xinghan",
+    "url": "/nmtci/translations/111",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 112,
+    "title": "Victory and Defeat",
+    "url": "/nmtci/translations/112",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 113,
+    "title": "Pre-Competition Breakthrough, the Sky Pillar",
+    "url": "/nmtci/translations/113",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 114,
+    "title": "Brewing",
+    "url": "/nmtci/translations/114",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 115,
+    "title": "Holding Up the Sky",
+    "url": "/nmtci/translations/115",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 116,
+    "title": "The Strongest Power!",
+    "url": "/nmtci/translations/116",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 117,
+    "title": "A Peerless Genius",
+    "url": "/nmtci/translations/117",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 118,
+    "title": "The Spokesperson",
+    "url": "/nmtci/translations/118",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 119,
+    "title": "My Schedule's Overbooked",
+    "url": "/nmtci/translations/119",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 120,
+    "title": "Sorry, Zhen",
+    "url": "/nmtci/translations/120",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 121,
+    "title": "The Foundation Establishment Certificate",
+    "url": "/nmtci/translations/121",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 122,
+    "title": "An Evil God’s Secrets",
+    "url": "/nmtci/translations/122",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 123,
+    "title": "Great Sun Qi Sea",
+    "url": "/nmtci/translations/123",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 124,
+    "title": "Cultivation Technique, Renting, and Le Mulan",
+    "url": "/nmtci/translations/124",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 125,
+    "title": "Pants All Torn",
+    "url": "/nmtci/translations/125",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 126,
+    "title": "Yu-boy, You Smell So Good",
+    "url": "/nmtci/translations/126",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 127,
+    "title": "Great Sun Circulation, A Successful House Hunt",
+    "url": "/nmtci/translations/127",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 128,
+    "title": "Battle at White Dragon",
+    "url": "/nmtci/translations/128",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 129,
+    "title": "Whetstone, Mountain-Shattering Palm",
+    "url": "/nmtci/translations/129",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 130,
+    "title": "Level 10 Great Sun, The Agony of Poverty",
+    "url": "/nmtci/translations/130",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 131,
+    "title": "New Pharmaceutical Channels, an Immortal Resonance Endorsement",
+    "url": "/nmtci/translations/131",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 132,
+    "title": "Finding Channels, Image Design",
+    "url": "/nmtci/translations/132",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 133,
+    "title": "Level 10 Crippled Ox, an Undercurrent Stirs",
+    "url": "/nmtci/translations/133",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 134,
+    "title": "Le and Bai Take Turns, Rapid Advancement",
+    "url": "/nmtci/translations/134",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 135,
+    "title": "The Difficulty of Breathing",
+    "url": "/nmtci/translations/135",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 136,
+    "title": "The Breeding Base",
+    "url": "/nmtci/translations/136",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 137,
+    "title": "High School Ends, Pianpian Departs",
+    "url": "/nmtci/translations/137",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 138,
+    "title": "Farewell to Zhang Pianpian, Registration Begins",
+    "url": "/nmtci/translations/138",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 139,
+    "title": "Exam Reforms, the Foundation Establishment Test",
+    "url": "/nmtci/translations/139",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 140,
+    "title": "The Strongest Level",
+    "url": "/nmtci/translations/140",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 141,
+    "title": "Arrange Ten For Him",
+    "url": "/nmtci/translations/141",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 142,
+    "title": "The Price of Giving Up",
+    "url": "/nmtci/translations/142",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 143,
+    "title": "Zhang Yu, Valuation???",
+    "url": "/nmtci/translations/143",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 144,
+    "title": "Let's Do It, Yu-boy! Let's Completely Unleash Our Immortal Dao Potential!",
+    "url": "/nmtci/translations/144",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 145,
+    "title": "Gradually Taking the Shape of an Insider",
+    "url": "/nmtci/translations/145",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 146,
+    "title": "Zhang Yu's Meteoric Rise",
+    "url": "/nmtci/translations/146",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 147,
+    "title": "True Combat Techniques",
+    "url": "/nmtci/translations/147",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 148,
+    "title": "Humiliating Lan Ling",
+    "url": "/nmtci/translations/148",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 149,
+    "title": "Battle with Zhou Chechen",
+    "url": "/nmtci/translations/149",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 150,
+    "title": "Zhang Yu's Connections",
+    "url": "/nmtci/translations/150",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 151,
+    "title": "Zhen, Why Has Your Stomach Gotten Bigger?",
+    "url": "/nmtci/translations/151",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 152,
+    "title": "The First Evolution of the True Spiritual Root",
+    "url": "/nmtci/translations/152",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 153,
+    "title": "Spirit Realm Cultivation, the Paupers' Alliance Appears",
+    "url": "/nmtci/translations/153",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 154,
+    "title": "Zhen Opens a Factory, Zhang Yu Becomes a Worker",
+    "url": "/nmtci/translations/154",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 155,
+    "title": "A True Crippled Ox, a True Body-Sacrifice, a True Heart Art",
+    "url": "/nmtci/translations/155",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 156,
+    "title": "Zhang Yu Activates the Ritual",
+    "url": "/nmtci/translations/156",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 157,
+    "title": "Taking the First Round of the Foundation Establishment Examination",
+    "url": "/nmtci/translations/157",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 158,
+    "title": "The Mysterious Zhang Yu",
+    "url": "/nmtci/translations/158",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 159,
+    "title": "The Clown's Summons",
+    "url": "/nmtci/translations/159",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 160,
+    "title": "The Strongest High School Student",
+    "url": "/nmtci/translations/160",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 161,
+    "title": "The Unfathomable Zhang Yu",
+    "url": "/nmtci/translations/161",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 162,
+    "title": "Gluttony",
+    "url": "/nmtci/translations/162",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 163,
+    "title": "Zhang Yu's Digestive Power!",
+    "url": "/nmtci/translations/163",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 164,
+    "title": "A Rematch with Yu Xinghan",
+    "url": "/nmtci/translations/164",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 165,
+    "title": "The Final Round, the Martial Arts Examination",
+    "url": "/nmtci/translations/165",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 166,
+    "title": "Zhang Yu's Heartache",
+    "url": "/nmtci/translations/166",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 167,
+    "title": "I've Mastered It",
+    "url": "/nmtci/translations/167",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 168,
+    "title": "Spring and Autumn Endless Zen",
+    "url": "/nmtci/translations/168",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 169,
+    "title": "Passing the Examination",
+    "url": "/nmtci/translations/169",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 170,
+    "title": "Second Round Grouping, Ye Lingxiao's Battle Intent",
+    "url": "/nmtci/translations/170",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 171,
+    "title": "Zhang Yu's Means of Production",
+    "url": "/nmtci/translations/171",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 172,
+    "title": "Seed Trade",
+    "url": "/nmtci/translations/172",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 173,
+    "title": "Zhang Yu Works Hard to Earn Money",
+    "url": "/nmtci/translations/173",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 174,
+    "title": "Arousing Yu Xinghan’s Potential",
+    "url": "/nmtci/translations/174",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 175,
+    "title": "The Hunt Begins",
+    "url": "/nmtci/translations/175",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 176,
+    "title": "The Ten Million Temptation",
+    "url": "/nmtci/translations/176",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 177,
+    "title": "Zhang Yu's Lightning Strike",
+    "url": "/nmtci/translations/177",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 178,
+    "title": "Intercepting the Six Powerhouses",
+    "url": "/nmtci/translations/178",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 179,
+    "title": "Successful Hunt of the Evil God",
+    "url": "/nmtci/translations/179",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 180,
+    "title": "A New Chapter of the Feather Book",
+    "url": "/nmtci/translations/180",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 181,
+    "title": "Evil God Promotion, Inspector Attention",
+    "url": "/nmtci/translations/181",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 182,
+    "title": "Zhang Yu Interrogated",
+    "url": "/nmtci/translations/182",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 183,
+    "title": "Zhenzhen's Potential, Ritual's Embrace",
+    "url": "/nmtci/translations/183",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 184,
+    "title": "School Power Tyrant, Level 10 Spring and Autumn",
+    "url": "/nmtci/translations/184",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 185,
+    "title": "The Great Clans of Songyang, A Threat to Zhang Yu",
+    "url": "/nmtci/translations/185",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 186,
+    "title": "Layers of Restraint",
+    "url": "/nmtci/translations/186",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 187,
+    "title": "Zhang Yu's Time",
+    "url": "/nmtci/translations/187",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 188,
+    "title": "Hidden Fangs, Awaiting the Opportunity",
+    "url": "/nmtci/translations/188",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 189,
+    "title": "High School Sacred Body",
+    "url": "/nmtci/translations/189",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 190,
+    "title": "The Sacred Body Complete, A Leave of Absence for the Exam",
+    "url": "/nmtci/translations/190",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 191,
+    "title": "The Second Round of the Foundation Establishment Examination Begins",
+    "url": "/nmtci/translations/191",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 192,
+    "title": "Good Students Should Use Alchemical Enhancers",
+    "url": "/nmtci/translations/192",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 193,
+    "title": "The Three Divine Drugs",
+    "url": "/nmtci/translations/193",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 194,
+    "title": "Two Pills in One Gulp",
+    "url": "/nmtci/translations/194",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 195,
+    "title": "High School Sacred Body? Qi Refinement Sacred Body!",
+    "url": "/nmtci/translations/195",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 196,
+    "title": "The Examination is Paused?",
+    "url": "/nmtci/translations/196",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 197,
+    "title": "First in Potions, Netherworld Heavy Water",
+    "url": "/nmtci/translations/197",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 198,
+    "title": "Mutual Destruction",
+    "url": "/nmtci/translations/198",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 199,
+    "title": "Zhang Yu's Best Cultivation Conditions",
+    "url": "/nmtci/translations/199",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 200,
+    "title": "The Most Perfect High School Physique",
+    "url": "/nmtci/translations/200",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 201,
+    "title": "The Second Round of the Foundation Establishment Examination Ends",
+    "url": "/nmtci/translations/201",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 202,
+    "title": "Zhang Yu Devises a Plan, a Righteous God's Secret",
+    "url": "/nmtci/translations/202",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 203,
+    "title": "The God of Wealth is First, University and Junior College",
+    "url": "/nmtci/translations/203",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 204,
+    "title": "An'an's Plea, Zhang Yu's Plan",
+    "url": "/nmtci/translations/204",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 205,
+    "title": "Zhang Yu Ambushed",
+    "url": "/nmtci/translations/205",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 206,
+    "title": "Thunderclap Talisman, Military-Grade Armaments",
+    "url": "/nmtci/translations/206",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 207,
+    "title": "Interrogating Zhang Yu, the Righteous God Clears the Scene",
+    "url": "/nmtci/translations/207",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 208,
+    "title": "Myriad Stars Group Under Lockdown",
+    "url": "/nmtci/translations/208",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 209,
+    "title": "Zhang Yu in the Mediation Room",
+    "url": "/nmtci/translations/209",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 210,
+    "title": "Zhang Yu's Bountiful Harvest",
+    "url": "/nmtci/translations/210",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 211,
+    "title": "Hidden Crisis, Dark Tutoring",
+    "url": "/nmtci/translations/211",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 212,
+    "title": "The Most Profitable Direction in the Dark World of Tutoring",
+    "url": "/nmtci/translations/212",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 213,
+    "title": "Zhang Yu's Leaps and Bounds and the Gold Medal Trial Class",
+    "url": "/nmtci/translations/213",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 214,
+    "title": "A Good-for-nothing Who Never Even Went to College",
+    "url": "/nmtci/translations/214",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 215,
+    "title": "This Is the Vibe",
+    "url": "/nmtci/translations/215",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 216,
+    "title": "Bombing the Cemetery",
+    "url": "/nmtci/translations/216",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 217,
+    "title": "The Holy Embryo's First Forming, The Exam Approaches",
+    "url": "/nmtci/translations/217",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 218,
+    "title": "Chaos in Songyang",
+    "url": "/nmtci/translations/218",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 219,
+    "title": "Minor Accomplishment of the Holy Embryo, Departure for the Exam",
+    "url": "/nmtci/translations/219",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 220,
+    "title": "A Foundation Establishment Exam… with an Audience?",
+    "url": "/nmtci/translations/220",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 221,
+    "title": "Divine Spiritual Root",
+    "url": "/nmtci/translations/221",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 222,
+    "title": "The Power of the Divine Spiritual Root",
+    "url": "/nmtci/translations/222",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 223,
+    "title": "Battle with Ye Lingxiao",
+    "url": "/nmtci/translations/223",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 224,
+    "title": "Victory and Defeat",
+    "url": "/nmtci/translations/224",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 225,
+    "title": "Instructional-Grade Bionic",
+    "url": "/nmtci/translations/225",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 226,
+    "title": "The Burden of a Bionic",
+    "url": "/nmtci/translations/226",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 227,
+    "title": "The Victor is Decided in the Third Stage",
+    "url": "/nmtci/translations/227",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 228,
+    "title": "The Third Stage of the Physical Body",
+    "url": "/nmtci/translations/228",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 229,
+    "title": "The Victor Is Decided",
+    "url": "/nmtci/translations/229",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 230,
+    "title": "Faster Than Sound",
+    "url": "/nmtci/translations/230",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 231,
+    "title": "Zhang Yu's Decisive Battle with Ye Lingxiao",
+    "url": "/nmtci/translations/231",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 232,
+    "title": "Finally, the Foundation Establishment Certificate (2-in-1)",
+    "url": "/nmtci/translations/232",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 233,
+    "title": "Rewards Arrive, Undercurrents Surge",
+    "url": "/nmtci/translations/233",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 234,
+    "title": "Congratulations to Zhang Yu and Bai Zhenzhen on Successfully Obtaining the Foundation Establishment Qualification Certificate",
+    "url": "/nmtci/translations/234",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 235,
+    "title": "The Talk of Songyang",
+    "url": "/nmtci/translations/235",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 236,
+    "title": "Zhang Yu's Foundation Establishment Domain",
+    "url": "/nmtci/translations/236",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 237,
+    "title": "Joyful Union",
+    "url": "/nmtci/translations/237",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 238,
+    "title": "Professional Intelligence",
+    "url": "/nmtci/translations/238",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 239,
+    "title": "Mr. Wang is Kind",
+    "url": "/nmtci/translations/239",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 240,
+    "title": "The Beginning of a Great Change on the First Layer",
+    "url": "/nmtci/translations/240",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 241,
+    "title": "The Wealthy Zhang Yu",
+    "url": "/nmtci/translations/241",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 242,
+    "title": "The Ideologically Backward Zhang Yu",
+    "url": "/nmtci/translations/242",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 243,
+    "title": "A Life of Wealth, the Martial Dao Holy Embryo",
+    "url": "/nmtci/translations/243",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 244,
+    "title": "Striving to Adapt, Sect Strife",
+    "url": "/nmtci/translations/244",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 245,
+    "title": "Endurance",
+    "url": "/nmtci/translations/245",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 246,
+    "title": "Unbearable",
+    "url": "/nmtci/translations/246",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 247,
+    "title": "Former Military-Grade",
+    "url": "/nmtci/translations/247",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 248,
+    "title": "Come Forth, My Backup Potential! Aid My Foundation Establishment!",
+    "url": "/nmtci/translations/248",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 249,
+    "title": "Seizing the Heavenly Spiritual Root",
+    "url": "/nmtci/translations/249",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 250,
+    "title": "Zhang Yu's Foundation Establishment",
+    "url": "/nmtci/translations/250",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 251,
+    "title": "The Gap Between Qi Refinement and Foundation Establishment",
+    "url": "/nmtci/translations/251",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 252,
+    "title": "Sweeping Clean",
+    "url": "/nmtci/translations/252",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 253,
+    "title": "World-Toppling Fists of the Affluent",
+    "url": "/nmtci/translations/253",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 254,
+    "title": "Great Battle with Mr. Wang",
+    "url": "/nmtci/translations/254",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 255,
+    "title": "Mid-Battle Improvement",
+    "url": "/nmtci/translations/255",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 256,
+    "title": "Dueling Wang Yin Alone",
+    "url": "/nmtci/translations/256",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 257,
+    "title": "Starfire's Guidance, a Nine Heavens Battle",
+    "url": "/nmtci/translations/257",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 258,
+    "title": "Defeating Wang Yin",
+    "url": "/nmtci/translations/258",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 259,
+    "title": "The Impact of Zhang Yu",
+    "url": "/nmtci/translations/259",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 260,
+    "title": "The Crippled Ox Body-Sacrifice is a Castrated Version?",
+    "url": "/nmtci/translations/260",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 261,
+    "title": "The Complete Crippled Ox Body-Sacrifice Art",
+    "url": "/nmtci/translations/261",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 262,
+    "title": "Oasis Seizure, Reward Selection",
+    "url": "/nmtci/translations/262",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 263,
+    "title": "Time-Lag Demon Pupil",
+    "url": "/nmtci/translations/263",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 264,
+    "title": "Starfire's Help",
+    "url": "/nmtci/translations/264",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 265,
+    "title": "Zhang Yu's Spirit Vein Pass",
+    "url": "/nmtci/translations/265",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 266,
+    "title": "The Zhou Family's Evil God, a Sprint Before the College Entrance Exam",
+    "url": "/nmtci/translations/266",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 267,
+    "title": "Zhang Yu's Rare Treasure, a Call from His Sister",
+    "url": "/nmtci/translations/267",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 268,
+    "title": "A Fleeting Time of Happiness",
+    "url": "/nmtci/translations/268",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 269,
+    "title": "Yu-boy is the Best in the World to Me",
+    "url": "/nmtci/translations/269",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 270,
+    "title": "Heading to the Second Layer of Kunxu",
+    "url": "/nmtci/translations/270",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 271,
+    "title": "Fu Ji Upgrades, Passing to the Second Layer",
+    "url": "/nmtci/translations/271",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 272,
+    "title": "Bai Zhenzhen - I'll Support You",
+    "url": "/nmtci/translations/272",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 273,
+    "title": "Zhang Yu's Promise to Bai Zhenzhen",
+    "url": "/nmtci/translations/273",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 274,
+    "title": "Reunion with Zhang Pianpian",
+    "url": "/nmtci/translations/274",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 275,
+    "title": "Foundation Establishment Class",
+    "url": "/nmtci/translations/275",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 276,
+    "title": "University Rankings",
+    "url": "/nmtci/translations/276",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 277,
+    "title": "Extremely Poor Talent, Purely Backed by Connections",
+    "url": "/nmtci/translations/277",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 278,
+    "title": "University Sacred Body — Who Dares Provoke Me?",
+    "url": "/nmtci/translations/278",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 279,
+    "title": "University Courses",
+    "url": "/nmtci/translations/279",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 280,
+    "title": "Foundation Establishment Stage Guidance",
+    "url": "/nmtci/translations/280",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 281,
+    "title": "Civil Engineering Truly Has a Bright Future",
+    "url": "/nmtci/translations/281",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 282,
+    "title": "The Feather Book Opens",
+    "url": "/nmtci/translations/282",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 283,
+    "title": "Dao Seed Register",
+    "url": "/nmtci/translations/283",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 284,
+    "title": "Ultimate - University Sacred Body (10/10)",
+    "url": "/nmtci/translations/284",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 285,
+    "title": "Elder Sister's Dao Seed",
+    "url": "/nmtci/translations/285",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 286,
+    "title": "Civil Engineering Sacred Body, Ranking Soars",
+    "url": "/nmtci/translations/286",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 287,
+    "title": "Barely Used, 99% New",
+    "url": "/nmtci/translations/287",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 288,
+    "title": "Le Mulan's Mission",
+    "url": "/nmtci/translations/288",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 289,
+    "title": "I Want to Join the Joyful Union Study Group",
+    "url": "/nmtci/translations/289",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 290,
+    "title": "Underperforming in the Exam, Construction Site Invitation",
+    "url": "/nmtci/translations/290",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 291,
+    "title": "Underground Magic Power Trading",
+    "url": "/nmtci/translations/291",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 292,
+    "title": "Assisting Mulan, Heading to the Construction Site",
+    "url": "/nmtci/translations/292",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 293,
+    "title": "Construction Site",
+    "url": "/nmtci/translations/293",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 294,
+    "title": "Earning Spirit Coins, Spending Spirit Coins",
+    "url": "/nmtci/translations/294",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 295,
+    "title": "A Warm Current of Friendship Flows",
+    "url": "/nmtci/translations/295",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 296,
+    "title": "Get in the Car! They're About to Weld the Doors Shut!",
+    "url": "/nmtci/translations/296",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 297,
+    "title": "The Spirit Coins Spent Remained by His Side in Another Form",
+    "url": "/nmtci/translations/297",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 298,
+    "title": "Beginner - Civil Engineering Sacred Body (6/6)",
+    "url": "/nmtci/translations/298",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 299,
+    "title": "Auto-Loot On, Wild Ingredients Galore",
+    "url": "/nmtci/translations/299",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 300,
+    "title": "Model Worker Zhang Yu",
+    "url": "/nmtci/translations/300",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 301,
+    "title": "Zhang Yu vs. Ying Xin",
+    "url": "/nmtci/translations/301",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 302,
+    "title": "This is the Flesh Forged on the Construction Site",
+    "url": "/nmtci/translations/302",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 303,
+    "title": "The University War",
+    "url": "/nmtci/translations/303",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 304,
+    "title": "Bai Zhenzhen's Flying Sword",
+    "url": "/nmtci/translations/304",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 305,
+    "title": "Wilderness Construction Site",
+    "url": "/nmtci/translations/305",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 306,
+    "title": "Mountain-Shifting Divine Power and Azure Silk Flying Sword",
+    "url": "/nmtci/translations/306",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 307,
+    "title": "Mortality and Morbidity Rates",
+    "url": "/nmtci/translations/307",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 308,
+    "title": "Zhang Yu Sneaks a Bite",
+    "url": "/nmtci/translations/308",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 309,
+    "title": "Superior Civil Engineering Sacred Body (8/8)",
+    "url": "/nmtci/translations/309",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 310,
+    "title": "Zhang Yu, You're Scaring Me",
+    "url": "/nmtci/translations/310",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 311,
+    "title": "Ultimate Civil Engineering Sacred Body",
+    "url": "/nmtci/translations/311",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 312,
+    "title": "Final Exams",
+    "url": "/nmtci/translations/312",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 313,
+    "title": "Zhang Yu vs. Gongshu Jin",
+    "url": "/nmtci/translations/313",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 314,
+    "title": "Let the Heavenly Chosen Battle the Heavenly Chosen",
+    "url": "/nmtci/translations/314",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 315,
+    "title": "Rankings Update",
+    "url": "/nmtci/translations/315",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 316,
+    "title": "Rankings Teach Mutual Respect",
+    "url": "/nmtci/translations/316",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 317,
+    "title": "Immortal Sect Techniques",
+    "url": "/nmtci/translations/317",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 318,
+    "title": "War and Peace",
+    "url": "/nmtci/translations/318",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 319,
+    "title": "Grand Mansion and Qi Luck",
+    "url": "/nmtci/translations/319",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 320,
+    "title": "Watch Me Crush You This Semester",
+    "url": "/nmtci/translations/320",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 321,
+    "title": "Zhang Yu's Appetite",
+    "url": "/nmtci/translations/321",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 322,
+    "title": "Project Selection",
+    "url": "/nmtci/translations/322",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 323,
+    "title": "Graveyard Blind Box",
+    "url": "/nmtci/translations/323",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 324,
+    "title": "Dao Heart and Heart Demon",
+    "url": "/nmtci/translations/324",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 325,
+    "title": "Manipulating Zhang Yu",
+    "url": "/nmtci/translations/325",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 326,
+    "title": "Wang Yin's Dao Heart Shatters",
+    "url": "/nmtci/translations/326",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 327,
+    "title": "Everyone Misses President Wang",
+    "url": "/nmtci/translations/327",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 328,
+    "title": "Hot-Blooded Civil Engineering",
+    "url": "/nmtci/translations/328",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 329,
+    "title": "Secret Weapon, Profound Cold Meridian",
+    "url": "/nmtci/translations/329",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 330,
+    "title": "Bai Zhenzhen Practices Swordplay, Zhang Yu Thaws",
+    "url": "/nmtci/translations/330",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 331,
+    "title": "Discovering the Illegal Farming Operation",
+    "url": "/nmtci/translations/331",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 332,
+    "title": "A Good Samaritan",
+    "url": "/nmtci/translations/332",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 333,
+    "title": "Spoils of War and Distribution",
+    "url": "/nmtci/translations/333",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 334,
+    "title": "Supreme Clarity Talisman",
+    "url": "/nmtci/translations/334",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 335,
+    "title": "The Competition Team",
+    "url": "/nmtci/translations/335",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 336,
+    "title": "First Meeting at the Club",
+    "url": "/nmtci/translations/336",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 337,
+    "title": "Superior Qi Meridian Everflow (8/8)",
+    "url": "/nmtci/translations/337",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 338,
+    "title": "Hammerheart Pavilion",
+    "url": "/nmtci/translations/338",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 339,
+    "title": "The Spirit-Flesh Union Journey",
+    "url": "/nmtci/translations/339",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 340,
+    "title": "A-Zhen's Future, Finals Approaching, Mentor Selection",
+    "url": "/nmtci/translations/340",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 341,
+    "title": "Zhang Yu's Construction Team",
+    "url": "/nmtci/translations/341",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 342,
+    "title": "Black Art",
+    "url": "/nmtci/translations/342",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 343,
+    "title": "Second Mental Cultivation Technique, Exams Begin",
+    "url": "/nmtci/translations/343",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 344,
+    "title": "First Academic Year, Final Major Exam",
+    "url": "/nmtci/translations/344",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 345,
+    "title": "Frenzied Construction",
+    "url": "/nmtci/translations/345",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 346,
+    "title": "The Inevitable Tide, Civil Engineering's Righteous Path",
+    "url": "/nmtci/translations/346",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 347,
+    "title": "This Child Possesses a Natural Civil Engineering Sacred Body",
+    "url": "/nmtci/translations/347",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 348,
+    "title": "Zhang Yu Takes First Place",
+    "url": "/nmtci/translations/348",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 349,
+    "title": "The Seven Absolutes of Civil Engineering and the Seven Absolutes Bionic",
+    "url": "/nmtci/translations/349",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 350,
+    "title": "Zhang Yu's Two Teachers",
+    "url": "/nmtci/translations/350",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 351,
+    "title": "Zhang Yu's Secret",
+    "url": "/nmtci/translations/351",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 352,
+    "title": "Competition Decided, Supreme Clarity Talisman",
+    "url": "/nmtci/translations/352",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 353,
+    "title": "The Bond Between Siblings",
+    "url": "/nmtci/translations/353",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 354,
+    "title": "Supreme Clarity Palace Hall",
+    "url": "/nmtci/translations/354",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 355,
+    "title": "Bai Zhenzhen Evaluates Le Mulan's Harm",
+    "url": "/nmtci/translations/355",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 356,
+    "title": "Four Hearts as One: Director Gao's Guidance",
+    "url": "/nmtci/translations/356",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 357,
+    "title": "Leaving the Team and Forming a New One",
+    "url": "/nmtci/translations/357",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 358,
+    "title": "Ghost Kidney, Ten Thousand Coins",
+    "url": "/nmtci/translations/358",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 359,
+    "title": "Heaven-Turning Seal, Artifact Refinement Class",
+    "url": "/nmtci/translations/359",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 360,
+    "title": "Starting Today, I'm Abstaining from Lust!",
+    "url": "/nmtci/translations/360",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 361,
+    "title": "Zhang Yu's Weakness Period",
+    "url": "/nmtci/translations/361",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 362,
+    "title": "Blocking His Immortal Path is Like Blocking My Own",
+    "url": "/nmtci/translations/362",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 363,
+    "title": "Bai Zhenzhen and Zhang Yu's Reunion",
+    "url": "/nmtci/translations/363",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 364,
+    "title": "Bai Zhenzhen's Dao Seed",
+    "url": "/nmtci/translations/364",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 365,
+    "title": "Wealth Breeds Affection",
+    "url": "/nmtci/translations/365",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 366,
+    "title": "Bai Zhenzhen, the Object of Worship",
+    "url": "/nmtci/translations/366",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 367,
+    "title": "Coin Speculation",
+    "url": "/nmtci/translations/367",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 368,
+    "title": "I, Wen Wuya, Am Not a Petty Person",
+    "url": "/nmtci/translations/368",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 369,
+    "title": "The Mysteries of the Azure Lotus Sword Embryo",
+    "url": "/nmtci/translations/369",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 370,
+    "title": "Farewell, Civil Engineering Competition Begins",
+    "url": "/nmtci/translations/370",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 371,
+    "title": "Martial Dao Sacred Body",
+    "url": "/nmtci/translations/371",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 372,
+    "title": "Seven Absolutes Transformation, Fierce Competition",
+    "url": "/nmtci/translations/372",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 373,
+    "title": "Zhang Yu, the Desperate Genius",
+    "url": "/nmtci/translations/373",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 374,
+    "title": "Throwing Zhang Yu Over",
+    "url": "/nmtci/translations/374",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 375,
+    "title": "Another Level 20 Cultivation Art?",
+    "url": "/nmtci/translations/375",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 376,
+    "title": "Is This Second-Year?",
+    "url": "/nmtci/translations/376",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 377,
+    "title": "The Competition's Hidden Health Bar",
+    "url": "/nmtci/translations/377",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 378,
+    "title": "Fierce Battle in the Second Half",
+    "url": "/nmtci/translations/378",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 379,
+    "title": "How To Compete Without Money",
+    "url": "/nmtci/translations/379",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 380,
+    "title": "Just Surrender",
+    "url": "/nmtci/translations/380",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 381,
+    "title": "Top Contributor of the Match: Zhang Yu",
+    "url": "/nmtci/translations/381",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 382,
+    "title": "True Monarch Magnetic Pole's Secret Guidance",
+    "url": "/nmtci/translations/382",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 383,
+    "title": "Showdown with Su Yanyang",
+    "url": "/nmtci/translations/383",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 384,
+    "title": "Two Realms Divided, Sky-Patrolling Flying Swords",
+    "url": "/nmtci/translations/384",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 385,
+    "title": "Severing Hair to Forge a Sword",
+    "url": "/nmtci/translations/385",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 386,
+    "title": "Intelligent Architecture",
+    "url": "/nmtci/translations/386",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 387,
+    "title": "The Final Offensive",
+    "url": "/nmtci/translations/387",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 388,
+    "title": "Director Gao's Assistance",
+    "url": "/nmtci/translations/388",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 389,
+    "title": "True Monarch Magnetic Pole's Mid-Match Guidance",
+    "url": "/nmtci/translations/389",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 390,
+    "title": "Rematch with Su Yanyang",
+    "url": "/nmtci/translations/390",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 391,
+    "title": "Suppression",
+    "url": "/nmtci/translations/391",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 392,
+    "title": "The End",
+    "url": "/nmtci/translations/392",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 393,
+    "title": "Zhang Yu's Victory",
+    "url": "/nmtci/translations/393",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 394,
+    "title": "Awarded the Seven Absolutes",
+    "url": "/nmtci/translations/394",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 395,
+    "title": "The Joy of Victory",
+    "url": "/nmtci/translations/395",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 396,
+    "title": "The Loser, Second Absolute",
+    "url": "/nmtci/translations/396",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 397,
+    "title": "Zhang Yu's Military Certificate Plan",
+    "url": "/nmtci/translations/397",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 398,
+    "title": "First Attempt at Artifact Refinement",
+    "url": "/nmtci/translations/398",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 399,
+    "title": "Reducing Artifact Refinement Costs",
+    "url": "/nmtci/translations/399",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 400,
+    "title": "The Busy Zhang Yu",
+    "url": "/nmtci/translations/400",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 401,
+    "title": "Students of the Artifact Refinement Department",
+    "url": "/nmtci/translations/401",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 402,
+    "title": "Immortal Fortune",
+    "url": "/nmtci/translations/402",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 403,
+    "title": "The Mysterious Zhang Yu",
+    "url": "/nmtci/translations/403",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 404,
+    "title": "Pharmaceutical Factory Assembly Line",
+    "url": "/nmtci/translations/404",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 405,
+    "title": "The Myriad Laws Soul Transformation Cultivators, Cultivation Drug Trials",
+    "url": "/nmtci/translations/405",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 406,
+    "title": "For Zhang Yu, the Magical Artifact Spirit",
+    "url": "/nmtci/translations/406",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 407,
+    "title": "Lian Tianji",
+    "url": "/nmtci/translations/407",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 408,
+    "title": "Evil Cult",
+    "url": "/nmtci/translations/408",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 409,
+    "title": "Superior - Martial Dao Sacred Body (8/8)",
+    "url": "/nmtci/translations/409",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 410,
+    "title": "How Many Junior College Students for a Handful?",
+    "url": "/nmtci/translations/410",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 411,
+    "title": "The Grand Bargain",
+    "url": "/nmtci/translations/411",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 412,
+    "title": "Martial Dao Sacred Body, Great Unity Golden Liquid",
+    "url": "/nmtci/translations/412",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 413,
+    "title": "Golden Armor Warrior",
+    "url": "/nmtci/translations/413",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 414,
+    "title": "Magnetic Pole's Incarnation",
+    "url": "/nmtci/translations/414",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 415,
+    "title": "Rapid Progress, Foundation Establishment Limit, Scrambling for Opportunities",
+    "url": "/nmtci/translations/415",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 416,
+    "title": "Artifact Refinement Examination",
+    "url": "/nmtci/translations/416",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 417,
+    "title": "The Allure of the Artifact Refinement Department",
+    "url": "/nmtci/translations/417",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 418,
+    "title": "Second-Year Final Exams",
+    "url": "/nmtci/translations/418",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 419,
+    "title": "Each Displays Their Unique Ablities",
+    "url": "/nmtci/translations/419",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 420,
+    "title": "End of Term, Overnight Fortune",
+    "url": "/nmtci/translations/420",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 421,
+    "title": "The Marvelous Uses of the Minor Threefold Combination",
+    "url": "/nmtci/translations/421",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 422,
+    "title": "The Military Certificate Examination Begins",
+    "url": "/nmtci/translations/422",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 423,
+    "title": "The Soaring Value of Jade Nectar Coins",
+    "url": "/nmtci/translations/423",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 424,
+    "title": "Tower Defense?",
+    "url": "/nmtci/translations/424",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 425,
+    "title": "Civil Engineering Customs, Relentless Assault",
+    "url": "/nmtci/translations/425",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 426,
+    "title": "Displaying Divine Powers, Breakthroughs in Battle",
+    "url": "/nmtci/translations/426",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 427,
+    "title": "The Divine Monarch's Grand Wedding",
+    "url": "/nmtci/translations/427",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 428,
+    "title": "Who Can Defeat Me?",
+    "url": "/nmtci/translations/428",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 429,
+    "title": "Battling Heaven and Earth",
+    "url": "/nmtci/translations/429",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 430,
+    "title": "The Outcome Determined",
+    "url": "/nmtci/translations/430",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 431,
+    "title": "Expert Commentary",
+    "url": "/nmtci/translations/431",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 432,
+    "title": "Reporting to the Heavenly Court",
+    "url": "/nmtci/translations/432",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 433,
+    "title": "An Involuntary Hum",
+    "url": "/nmtci/translations/433",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 434,
+    "title": "Mentor Selection and Future Paths",
+    "url": "/nmtci/translations/434",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 435,
+    "title": "Signing the Contract",
+    "url": "/nmtci/translations/435",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 436,
+    "title": "Team Withdrawal",
+    "url": "/nmtci/translations/436",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 437,
+    "title": "Don't Spread This Around, But the News Is Going Viral",
+    "url": "/nmtci/translations/437",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 438,
+    "title": "Issuing Military Certificates",
+    "url": "/nmtci/translations/438",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 439,
+    "title": "A Genuine Promise",
+    "url": "/nmtci/translations/439",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 440,
+    "title": "Reunion with President Wang, Ping Han",
+    "url": "/nmtci/translations/440",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 441,
+    "title": "Zhang Yu, What Makes You Think You Can Compete with Me?",
+    "url": "/nmtci/translations/441",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 442,
+    "title": "Just give up",
+    "url": "/nmtci/translations/442",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 443,
+    "title": "Want to Know How I Beat You?",
+    "url": "/nmtci/translations/443",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 444,
+    "title": "The Victor Has Won, the Defeated Is Not Yet Defeated",
+    "url": "/nmtci/translations/444",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 445,
+    "title": "Receiving the Fourth Absolute",
+    "url": "/nmtci/translations/445",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 446,
+    "title": "Financial Storm",
+    "url": "/nmtci/translations/446",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 447,
+    "title": "Bestowed the Fifth Absolute",
+    "url": "/nmtci/translations/447",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 448,
+    "title": "The Seven Absolutes Opportunity and the Anti-Intelligence Wave",
+    "url": "/nmtci/translations/448",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 449,
+    "title": "Golden River University's Unique Teaching Methods",
+    "url": "/nmtci/translations/449",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 450,
+    "title": "The Health Club Explosion Case",
+    "url": "/nmtci/translations/450",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 451,
+    "title": "Vajra University, One of the Ten Greats",
+    "url": "/nmtci/translations/451",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 452,
+    "title": "Inverted Kunlun (6/6)",
+    "url": "/nmtci/translations/452",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 453,
+    "title": "The Non-Loser Loses, the Non-Winner Wins",
+    "url": "/nmtci/translations/453",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 454,
+    "title": "Heavenly Kunlun Mountain-Moving Divine Power",
+    "url": "/nmtci/translations/454",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 455,
+    "title": "President Wang",
+    "url": "/nmtci/translations/455",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 456,
+    "title": "President Zhang",
+    "url": "/nmtci/translations/456",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 457,
+    "title": "President Fortune",
+    "url": "/nmtci/translations/457",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 458,
+    "title": "The Vast Artifact Refinement Department, Another Battle with Vajra",
+    "url": "/nmtci/translations/458",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 459,
+    "title": "Even the Principal Can't Escape",
+    "url": "/nmtci/translations/459",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 460,
+    "title": "Zhang Yu Battles Chan Rong",
+    "url": "/nmtci/translations/460",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 461,
+    "title": "Defeating Chan Rong",
+    "url": "/nmtci/translations/461",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 462,
+    "title": "Zhang Yu's Soaring Spirit Coins",
+    "url": "/nmtci/translations/462",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 463,
+    "title": "Level 2 Supreme Clarity Talisman",
+    "url": "/nmtci/translations/463",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 464,
+    "title": "Yin Artifact Decoded, Dual Degree",
+    "url": "/nmtci/translations/464",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 465,
+    "title": "Company Cost Optimization and Participation in Major Experimental Projects",
+    "url": "/nmtci/translations/465",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 466,
+    "title": "Compatibility Through the Roof?",
+    "url": "/nmtci/translations/466",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 467,
+    "title": "The Artifact Spirit's Favor",
+    "url": "/nmtci/translations/467",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 468,
+    "title": "Breaking Through on the Spot",
+    "url": "/nmtci/translations/468",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 469,
+    "title": "Yu Xinghan's Speed",
+    "url": "/nmtci/translations/469",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 470,
+    "title": "Widespread Attention",
+    "url": "/nmtci/translations/470",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 471,
+    "title": "A Great Immortal Fortune Arrives",
+    "url": "/nmtci/translations/471",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 472,
+    "title": "Zhang Yu's Sacred Body, Arrival at Heavenly Sword",
+    "url": "/nmtci/translations/472",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 473,
+    "title": "The Gathering Storm",
+    "url": "/nmtci/translations/473",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 474,
+    "title": "Zhang Yu's Date",
+    "url": "/nmtci/translations/474",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 475,
+    "title": "Did I Come at the Wrong Time?",
+    "url": "/nmtci/translations/475",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 476,
+    "title": "Exchange and Competition",
+    "url": "/nmtci/translations/476",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 477,
+    "title": "Even Civil Engineering Can Produce Dragons",
+    "url": "/nmtci/translations/477",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 478,
+    "title": "Breakthrough in the Heat of Battle",
+    "url": "/nmtci/translations/478",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 479,
+    "title": "The Spark of War?",
+    "url": "/nmtci/translations/479",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 480,
+    "title": "Keep Your Civil Engineering Hands Off",
+    "url": "/nmtci/translations/480",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 481,
+    "title": "Civil Engineering Can Truly Produce Dragons!",
+    "url": "/nmtci/translations/481",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 482,
+    "title": "Admonitions and Spirit Roots",
+    "url": "/nmtci/translations/482",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 483,
+    "title": "Under the Spotlight",
+    "url": "/nmtci/translations/483",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 484,
+    "title": "Divine Spirit Root and Blockade",
+    "url": "/nmtci/translations/484",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 485,
+    "title": "Campus Traitor",
+    "url": "/nmtci/translations/485",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 486,
+    "title": "Confrontation Before the Divine Monarch (Thank you to \"Mad Night Unending\" for stuffing Zhang Yu with dog food!)",
+    "url": "/nmtci/translations/486",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 487,
+    "title": "She's Different",
+    "url": "/nmtci/translations/487",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 488,
+    "title": "He's Different",
+    "url": "/nmtci/translations/488",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 489,
+    "title": "Soul Transformation Descent",
+    "url": "/nmtci/translations/489",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 490,
+    "title": "Win-Win",
+    "url": "/nmtci/translations/490",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 491,
+    "title": "The Value of Longevity",
+    "url": "/nmtci/translations/491",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 492,
+    "title": "Mountain-Moving Warrior",
+    "url": "/nmtci/translations/492",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 493,
+    "title": "Plagiarism and Zombies",
+    "url": "/nmtci/translations/493",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 494,
+    "title": "Why Is Extreme Tiger, So Talented, Being Looked Down Upon?",
+    "url": "/nmtci/translations/494",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 495,
+    "title": "Reimbursement and Preparing to Transfer Departments",
+    "url": "/nmtci/translations/495",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 496,
+    "title": "Great Sage's Heir 4",
+    "url": "/nmtci/translations/496",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 497,
+    "title": "Zhenzhen's True Intent, the Great Sage's Will",
+    "url": "/nmtci/translations/497",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 498,
+    "title": "Reproduction Tax and Bonds",
+    "url": "/nmtci/translations/498",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 499,
+    "title": "Mount Sumeru King Sutra",
+    "url": "/nmtci/translations/499",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 500,
+    "title": "Defeat",
+    "url": "/nmtci/translations/500",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 501,
+    "title": "Civil Engineering Life? Master Refiner!",
+    "url": "/nmtci/translations/501",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 502,
+    "title": "The Strongest Civil Engineering Student",
+    "url": "/nmtci/translations/502",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 503,
+    "title": "Civil Engineering Champion",
+    "url": "/nmtci/translations/503",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 504,
+    "title": "Stay in Civil Engineering or Switch Departments?",
+    "url": "/nmtci/translations/504",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 505,
+    "title": "Financial Talent Acquisition",
+    "url": "/nmtci/translations/505",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 506,
+    "title": "Finance is Finance, Myriad Laws is Myriad Laws",
+    "url": "/nmtci/translations/506",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 507,
+    "title": "When Did You Start?",
+    "url": "/nmtci/translations/507",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 508,
+    "title": "My Master Is Useless; I Can't Protect You",
+    "url": "/nmtci/translations/508",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 509,
+    "title": "Artifact Refinement Paths and Golden Core Divisions",
+    "url": "/nmtci/translations/509",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 510,
+    "title": "I'm Done Pretending — I'm a Master Refiner",
+    "url": "/nmtci/translations/510",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 511,
+    "title": "Ascending to the Artifact Refinement Department",
+    "url": "/nmtci/translations/511",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 512,
+    "title": "Zhang Yu's Golden Core Simulation Score",
+    "url": "/nmtci/translations/512",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 513,
+    "title": "Who Says Switching Departments Can't Compare to Pure-Bloods?",
+    "url": "/nmtci/translations/513",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 514,
+    "title": "Maintaining Personal Brand",
+    "url": "/nmtci/translations/514",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 515,
+    "title": "Accept My Extreme Emotion Sword Dao",
+    "url": "/nmtci/translations/515",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 516,
+    "title": "Cling to Me",
+    "url": "/nmtci/translations/516",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 517,
+    "title": "Dragged into becoming a Soul Cultivator",
+    "url": "/nmtci/translations/517",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 518,
+    "title": "You Didn't Notice Your Home Was Haunted?",
+    "url": "/nmtci/translations/518",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 519,
+    "title": "Resolving Thunder Pole",
+    "url": "/nmtci/translations/519",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 520,
+    "title": "Basic - Artifact Refinement Prodigy (6/6)",
+    "url": "/nmtci/translations/520",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 521,
+    "title": "Rising Renown",
+    "url": "/nmtci/translations/521",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 522,
+    "title": "Direct Competition",
+    "url": "/nmtci/translations/522",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 523,
+    "title": "Hype and Higher-Ups - Artifact Refinement Prodigy (8/8)",
+    "url": "/nmtci/translations/523",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 524,
+    "title": "Ultimate - Artifact Refinement Prodigy (10/10)",
+    "url": "/nmtci/translations/524",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 525,
+    "title": "Good Fortune Relic and Blockade",
+    "url": "/nmtci/translations/525",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 526,
+    "title": "Zhang Yu's Bottom Line",
+    "url": "/nmtci/translations/526",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 527,
+    "title": "Undercurrents Stirring",
+    "url": "/nmtci/translations/527",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 528,
+    "title": "Soul Transformation Clash, Heaven and Earth Shatter",
+    "url": "/nmtci/translations/528",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 529,
+    "title": "Soul Rings and the Encyclopedia of Celestial Technology",
+    "url": "/nmtci/translations/529",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 530,
+    "title": "Hoping for Master to Become a Dragon and Suppressing Chaos",
+    "url": "/nmtci/translations/530",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 531,
+    "title": "Zhang Yu's Refugee Camp",
+    "url": "/nmtci/translations/531",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 532,
+    "title": "Escalating Situation",
+    "url": "/nmtci/translations/532",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 533,
+    "title": "The Ascension Child and the Unemployed Elder",
+    "url": "/nmtci/translations/533",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 534,
+    "title": "Kunxu's Zero-Yuan Shopping Spree",
+    "url": "/nmtci/translations/534",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 535,
+    "title": "I Seem to Have a Golden Core Too",
+    "url": "/nmtci/translations/535",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 536,
+    "title": "Bonds",
+    "url": "/nmtci/translations/536",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 537,
+    "title": "Dark Spirit Realm",
+    "url": "/nmtci/translations/537",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 538,
+    "title": "Zhang Yu's Criminal Clique",
+    "url": "/nmtci/translations/538",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 539,
+    "title": "The Reckoning",
+    "url": "/nmtci/translations/539",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 540,
+    "title": "Self-Selected Immortal Sect Technique",
+    "url": "/nmtci/translations/540",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 541,
+    "title": "Refining the Prototype Begins",
+    "url": "/nmtci/translations/541",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 542,
+    "title": "Spring for Civil Engineering, Company Expansion",
+    "url": "/nmtci/translations/542",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 543,
+    "title": "Hiring an Assistant",
+    "url": "/nmtci/translations/543",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 544,
+    "title": "Taking Shape",
+    "url": "/nmtci/translations/544",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 545,
+    "title": "Who's Sabotaging Behind the Scenes?",
+    "url": "/nmtci/translations/545",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 546,
+    "title": "Sliding to His Knees",
+    "url": "/nmtci/translations/546",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 547,
+    "title": "The Secrets of Reincarnation and the Divine Dao",
+    "url": "/nmtci/translations/547",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 548,
+    "title": "The Five Taxes of Heavenly Beings",
+    "url": "/nmtci/translations/548",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 549,
+    "title": "Artifact Refinement: The Faster, the Better",
+    "url": "/nmtci/translations/549",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 550,
+    "title": "Even Administration Has Its Merits",
+    "url": "/nmtci/translations/550",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 551,
+    "title": "Ye Xingli's Dao Seed",
+    "url": "/nmtci/translations/551",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 552,
+    "title": "Prototype Mechanism Report",
+    "url": "/nmtci/translations/552",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 553,
+    "title": "True Monarch Magnetic Pole's Son?",
+    "url": "/nmtci/translations/553",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 554,
+    "title": "Issuance of a Class A Military Artifact Refining Engineering Certificate",
+    "url": "/nmtci/translations/554",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 555,
+    "title": "Top 50 in the School, New Bionic Eye",
+    "url": "/nmtci/translations/555",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 556,
+    "title": "How Will People Know I Have an Artifact Refinement Military Certificate If I Don't Tell Them?",
+    "url": "/nmtci/translations/556",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 557,
+    "title": "Celestial Monsters Come Begging",
+    "url": "/nmtci/translations/557",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 558,
+    "title": "Borrowing a Puppet",
+    "url": "/nmtci/translations/558",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 559,
+    "title": "The Gambling Contract",
+    "url": "/nmtci/translations/559",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 560,
+    "title": "Is This Really Junior College Life?",
+    "url": "/nmtci/translations/560",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 561,
+    "title": "Enlightenment at Vocational College",
+    "url": "/nmtci/translations/561",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 562,
+    "title": "Pre-Competition Preparations",
+    "url": "/nmtci/translations/562",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 563,
+    "title": "Infiltrating the Sect?",
+    "url": "/nmtci/translations/563",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 564,
+    "title": "The Dark Reincarnation Realm",
+    "url": "/nmtci/translations/564",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 565,
+    "title": "Semi-Bionic Luxury",
+    "url": "/nmtci/translations/565",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 566,
+    "title": "True Monarch Magnetic Pole Treasures Her Disciple Too Much",
+    "url": "/nmtci/translations/566",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 567,
+    "title": "What's the Point of Having Judges Like Us?",
+    "url": "/nmtci/translations/567",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 568,
+    "title": "Livestream, Videos, and Design Competition",
+    "url": "/nmtci/translations/568",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 569,
+    "title": "Design Completed, Simulation Test",
+    "url": "/nmtci/translations/569",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 570,
+    "title": "Aiming for First Place Among All Universities",
+    "url": "/nmtci/translations/570",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 571,
+    "title": "Magnetic Pole's Treasure",
+    "url": "/nmtci/translations/571",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 572,
+    "title": "Top 20 Here — Who Dares Detain Me?",
+    "url": "/nmtci/translations/572",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 573,
+    "title": "True Monarch Magnetic Pole's Experience",
+    "url": "/nmtci/translations/573",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 574,
+    "title": "New Extreme Emotion Sword Dao",
+    "url": "/nmtci/translations/574",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 575,
+    "title": "Latest Version of the \"Heaven and Earth Cataclysmic Formless Heart Weapon\"",
+    "url": "/nmtci/translations/575",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 576,
+    "title": "The Simplest and Most Effective Method for Dealing with the Dual Rest Virus",
+    "url": "/nmtci/translations/576",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 577,
+    "title": "How Could It Be a Raise?",
+    "url": "/nmtci/translations/577",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 578,
+    "title": "Discrimination? Tell it to my Great Sky Sacred Law Flying Sword!",
+    "url": "/nmtci/translations/578",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 579,
+    "title": "What a Fiendish Beast! Daring to Conduct Unauthorized Construction!",
+    "url": "/nmtci/translations/579",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 580,
+    "title": "Intercepting Zhang Yu",
+    "url": "/nmtci/translations/580",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 581,
+    "title": "A Staggering Block",
+    "url": "/nmtci/translations/581",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 582,
+    "title": "Zhang Yu, You're the Person I Trust Most",
+    "url": "/nmtci/translations/582",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 583,
+    "title": "I Still Prefer Your Previous Rebellious Spirit",
+    "url": "/nmtci/translations/583",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 584,
+    "title": "Transferred to Vocational College, Comment Section Overrun by Monsterfolk",
+    "url": "/nmtci/translations/584",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 585,
+    "title": "The Merits of a Character Who Discriminates Against Monsterfolk",
+    "url": "/nmtci/translations/585",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 586,
+    "title": "Young Friend, Save Me!",
+    "url": "/nmtci/translations/586",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 587,
+    "title": "League Format and Qualification Battles",
+    "url": "/nmtci/translations/587",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 588,
+    "title": "Civil Engineering + Flying Swords: A Promising Combination?",
+    "url": "/nmtci/translations/588",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 589,
+    "title": "Cooperation with Bei Wufeng",
+    "url": "/nmtci/translations/589",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 590,
+    "title": "Immortal Dao Potential Skyrockets",
+    "url": "/nmtci/translations/590",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 591,
+    "title": "The Monster Rations Run Out",
+    "url": "/nmtci/translations/591",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 592,
+    "title": "Pre-Competition Advertising Placement",
+    "url": "/nmtci/translations/592",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 593,
+    "title": "Are You Sure You Want to Choose Her?",
+    "url": "/nmtci/translations/593",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 594,
+    "title": "Arrival at the Floating Continent, Kuang Tianqing",
+    "url": "/nmtci/translations/594",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 595,
+    "title": "Reunion with Bai Zhenzhen",
+    "url": "/nmtci/translations/595",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 596,
+    "title": "Dao Repository",
+    "url": "/nmtci/translations/596",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 597,
+    "title": "Rules, Storm",
+    "url": "/nmtci/translations/597",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 598,
+    "title": "Dual Swords United, Enjoy the Blessing",
+    "url": "/nmtci/translations/598",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 599,
+    "title": "Swallowing Immortal Scum, Internal Testing of Cultivation Art",
+    "url": "/nmtci/translations/599",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 600,
+    "title": "Kuang Tianqing! I'm going to kill you!",
+    "url": "/nmtci/translations/600",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 601,
+    "title": "Zhenzhen's Flying Sword",
+    "url": "/nmtci/translations/601",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 602,
+    "title": "You've Lost",
+    "url": "/nmtci/translations/602",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 603,
+    "title": "Advertising Value Rankings",
+    "url": "/nmtci/translations/603",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 604,
+    "title": "Team Tournament — A Chance for the Weak to Devour the Strong",
+    "url": "/nmtci/translations/604",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 605,
+    "title": "The Battlefield That Suits Me Best",
+    "url": "/nmtci/translations/605",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 606,
+    "title": "Team Tournament Day Two",
+    "url": "/nmtci/translations/606",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 607,
+    "title": "The Soul Transformation Gamble",
+    "url": "/nmtci/translations/607",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 608,
+    "title": "The Great Melee",
+    "url": "/nmtci/translations/608",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 609,
+    "title": "Kuang Tianqing, Enjoy This Show",
+    "url": "/nmtci/translations/609",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 610,
+    "title": "The Power of Unity",
+    "url": "/nmtci/translations/610",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 611,
+    "title": "The Toughest Corpse",
+    "url": "/nmtci/translations/611",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 612,
+    "title": "Student Zhang Yu, Do You Have Anything to Say?",
+    "url": "/nmtci/translations/612",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 613,
+    "title": "I Will Ascend Dao Qiankun to the Throne",
+    "url": "/nmtci/translations/613",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 614,
+    "title": "The True Power Move",
+    "url": "/nmtci/translations/614",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 615,
+    "title": "The More You Watch, the Higher the Threshold",
+    "url": "/nmtci/translations/615",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 616,
+    "title": "Dao Qiankun's Dao Seed",
+    "url": "/nmtci/translations/616",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 617,
+    "title": "Come Here, Zhang Yu",
+    "url": "/nmtci/translations/617",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 618,
+    "title": "Zhang Yu, the Object of Everyone's Desire",
+    "url": "/nmtci/translations/618",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 619,
+    "title": "Breeding Demon Beasts",
+    "url": "/nmtci/translations/619",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 620,
+    "title": "Myriad Sword Qi Pierces the Heavens, Cleaving Chaos to Reveal the Azure Sky",
+    "url": "/nmtci/translations/620",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 621,
+    "title": "Dragon Subduing",
+    "url": "/nmtci/translations/621",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 622,
+    "title": "The True Runaway Champion",
+    "url": "/nmtci/translations/622",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 623,
+    "title": "Hot Search Controversy",
+    "url": "/nmtci/translations/623",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 624,
+    "title": "Eternal Spring Sutra",
+    "url": "/nmtci/translations/624",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 625,
+    "title": "Monster Saint's Myriad Transformations Divine Scripture - Urgent! Urgent! Urgent!",
+    "url": "/nmtci/translations/625",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 626,
+    "title": "Brother Dao's Dao Seed",
+    "url": "/nmtci/translations/626",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 627,
+    "title": "Funeral",
+    "url": "/nmtci/translations/627",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 628,
+    "title": "A Great Upheaval Unseen in Ten Thousand Years",
+    "url": "/nmtci/translations/628",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 629,
+    "title": "Myriad Laws University, Zhang Yu Wins!",
+    "url": "/nmtci/translations/629",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 630,
+    "title": "Dragon, Spirit Root, Corpse",
+    "url": "/nmtci/translations/630",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 631,
+    "title": "Reincarnation Group",
+    "url": "/nmtci/translations/631",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 632,
+    "title": "Livestream, Conversation, and War",
+    "url": "/nmtci/translations/632",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 633,
+    "title": "Making the Monsterfolk Great Again",
+    "url": "/nmtci/translations/633",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 634,
+    "title": "The Battle of Fines",
+    "url": "/nmtci/translations/634",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 635,
+    "title": "The Final Eight",
+    "url": "/nmtci/translations/635",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 636,
+    "title": "Copyright Gamble, War Declared",
+    "url": "/nmtci/translations/636",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 637,
+    "title": "Core Secrets of the Finance Department",
+    "url": "/nmtci/translations/637",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 638,
+    "title": "The Finance Department Will Never Be the Strongest",
+    "url": "/nmtci/translations/638",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 639,
+    "title": "I, Jiutian Liu, Will Personally Seat You Upon the Throne",
+    "url": "/nmtci/translations/639",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 640,
+    "title": "The Final Four - Daughter of Seven Emotions",
+    "url": "/nmtci/translations/640",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 641,
+    "title": "Modification",
+    "url": "/nmtci/translations/641",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 642,
+    "title": "The Dharma Realm and the Immortal Dao Revolution",
+    "url": "/nmtci/translations/642",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 643,
+    "title": "Master, I've Realized It",
+    "url": "/nmtci/translations/643",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 644,
+    "title": "Dao Seed Activation Requirements, Fighting for Millions of Extreme Tiger Users",
+    "url": "/nmtci/translations/644",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 645,
+    "title": "Even Being Forced into Overtime Would Be Worth It Just to Witness This Live",
+    "url": "/nmtci/translations/645",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 646,
+    "title": "Immortal Dao Sun",
+    "url": "/nmtci/translations/646",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 647,
+    "title": "This World... Has Gone Mad!",
+    "url": "/nmtci/translations/647",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 648,
+    "title": "Kuang Tianqing's Rebirth",
+    "url": "/nmtci/translations/648",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 649,
+    "title": "This Is My Bai Zhenzhen's Choice",
+    "url": "/nmtci/translations/649",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 650,
+    "title": "Choosing a Cultivation Art, The Principal's Transmission of Power",
+    "url": "/nmtci/translations/650",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 651,
+    "title": "New Reincarnation System",
+    "url": "/nmtci/translations/651",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 652,
+    "title": "Why We Fight",
+    "url": "/nmtci/translations/652",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 653,
+    "title": "Immortal Descendant",
+    "url": "/nmtci/translations/653",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 654,
+    "title": "The Strongest Undergraduate",
+    "url": "/nmtci/translations/654",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 655,
+    "title": "Kunxu Needs Zhang Yu",
+    "url": "/nmtci/translations/655",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 656,
+    "title": "If Worse Comes to Worst, We'll Just Bankrupt Layers Two Through Six",
+    "url": "/nmtci/translations/656",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 657,
+    "title": "The True Immortal Dao Stock: Chief Engineer of the Dharma Realm",
+    "url": "/nmtci/translations/657",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 658,
+    "title": "Wealth and Honor Without Returning Home Are Like Wearing Brocade Clothes at Night",
+    "url": "/nmtci/translations/658",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 659,
+    "title": "Returning Home in Glory (Part 2)",
+    "url": "/nmtci/translations/659",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 660,
+    "title": "An'an, Starfire, and the Upper Sect's Plans",
+    "url": "/nmtci/translations/660",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 661,
+    "title": "New World",
+    "url": "/nmtci/translations/661",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 662,
+    "title": "Award Ceremony, Dao Qiankun",
+    "url": "/nmtci/translations/662",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 663,
+    "title": "Stealing the Dao Repository",
+    "url": "/nmtci/translations/663",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 664,
+    "title": "Break Through Without Restraint",
+    "url": "/nmtci/translations/664",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 665,
+    "title": "Golden Core Certificate, University War",
+    "url": "/nmtci/translations/665",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 666,
+    "title": "Breaking Through to Golden Core",
+    "url": "/nmtci/translations/666",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 667,
+    "title": "Inverted Kunlun, Vocational College Golden Core",
+    "url": "/nmtci/translations/667",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 668,
+    "title": "The Descent of Chaos",
+    "url": "/nmtci/translations/668",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 669,
+    "title": "Sacred Body Completion, Saturation-Style Upgrade",
+    "url": "/nmtci/translations/669",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 670,
+    "title": "Sorry, I Just Want to Reach Nascent Soul",
+    "url": "/nmtci/translations/670",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 671,
+    "title": "The Complete Fall of the Fifth Layer",
+    "url": "/nmtci/translations/671",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 672,
+    "title": "Dark Spirit Realm Cultivation Technique Open-Sourced",
+    "url": "/nmtci/translations/672",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 673,
+    "title": "Righteous Qi Exchange, Saturation-Style Nascent Soul Summoning",
+    "url": "/nmtci/translations/673",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 674,
+    "title": "Supreme Clarity Palace, 3rd-tier",
+    "url": "/nmtci/translations/674",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 675,
+    "title": "The Joy God, with its thousand hands and feet, said calmly, \"So what?\"",
+    "url": "/nmtci/translations/675",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 676,
+    "title": "Lunar War 1",
+    "url": "/nmtci/translations/676",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 677,
+    "title": "Lunar War 2",
+    "url": "/nmtci/translations/677",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 678,
+    "title": "Victory and Defeat",
+    "url": "/nmtci/translations/678",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 679,
+    "title": "Responding to Trust, Reclaiming the Sun",
+    "url": "/nmtci/translations/679",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 680,
+    "title": "A Cone Pierces the Heavens",
+    "url": "/nmtci/translations/680",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 681,
+    "title": "Immortal Sect Technique Enters the Pool",
+    "url": "/nmtci/translations/681",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 682,
+    "title": "World-Piercing Cone Repaired, Nascent Soul Refined",
+    "url": "/nmtci/translations/682",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 683,
+    "title": "Old Friends on the Construction Site, Zhang Yu's Trail",
+    "url": "/nmtci/translations/683",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 684,
+    "title": "Zhang Yu's Nascent Soul?",
+    "url": "/nmtci/translations/684",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 685,
+    "title": "Zhang Yu's Nascent Soul!",
+    "url": "/nmtci/translations/685",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 686,
+    "title": "Blowing Up Layers 2-5, World-Piercing Cone is on its way",
+    "url": "/nmtci/translations/686",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 687,
+    "title": "Arrival of a True Monarch",
+    "url": "/nmtci/translations/687",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 688,
+    "title": "The Spirit Realm Boils, All Sects Tremble",
+    "url": "/nmtci/translations/688",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 689,
+    "title": "Magnetic Pole: This Child Resembles Me",
+    "url": "/nmtci/translations/689",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 690,
+    "title": "Tiger of Myriad Laws, Technological Revolution",
+    "url": "/nmtci/translations/690",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 691,
+    "title": "Evil God Register",
+    "url": "/nmtci/translations/691",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 692,
+    "title": "Monsterfolk Zhang Yu",
+    "url": "/nmtci/translations/692",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 693,
+    "title": "Mission Complete",
+    "url": "/nmtci/translations/693",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 694,
+    "title": "Kunxu's 19th Underground Layer - Nascent Soul Sacred Body",
+    "url": "/nmtci/translations/694",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 695,
+    "title": "Space Ecosystem, Zhang Yu Under Scrutiny",
+    "url": "/nmtci/translations/695",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 696,
+    "title": "Azure Lotus Sword Embryo, The Finance Department's Decision",
+    "url": "/nmtci/translations/696",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 697,
+    "title": "Sword Embryo Upgrade, Adoptive Father",
+    "url": "/nmtci/translations/697",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 698,
+    "title": "Protect Our Blazing Light",
+    "url": "/nmtci/translations/698",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 699,
+    "title": "Victory!",
+    "url": "/nmtci/translations/699",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 700,
+    "title": "The Extreme Tiger Space Pouch Arrives",
+    "url": "/nmtci/translations/700",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 701,
+    "title": "True Monarch Heaven Devourer, Great Sage's Heir",
+    "url": "/nmtci/translations/701",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 702,
+    "title": "Sharp Critique: Vocational College Student Defies the Ten Greats",
+    "url": "/nmtci/translations/702",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 703,
+    "title": "Nascent Soul-Tier Three Realms and Ten Directions Great Void Barrier",
+    "url": "/nmtci/translations/703",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 704,
+    "title": "Zhang Yu's Plans",
+    "url": "/nmtci/translations/704",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 705,
+    "title": "Zhang Yu's Fingertips",
+    "url": "/nmtci/translations/705",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 706,
+    "title": "Let Severing Clouds Suffer, I'll Take the Blame",
+    "url": "/nmtci/translations/706",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 707,
+    "title": "The Sword Spirit's Approval",
+    "url": "/nmtci/translations/707",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 708,
+    "title": "The Changes Brought by Zhang Yu, Heavenly Court Countdown",
+    "url": "/nmtci/translations/708",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 709,
+    "title": "Dao Seed Upgrade, Special Foundation Establishment Approval, Final Battle Begins",
+    "url": "/nmtci/translations/709",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 710,
+    "title": "Dual Masters' Transmission of Power",
+    "url": "/nmtci/translations/710",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 711,
+    "title": "Shattering the Firmament",
+    "url": "/nmtci/translations/711",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 712,
+    "title": "Zhang Yu Emerges from Seclusion, Funeral",
+    "url": "/nmtci/translations/712",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 713,
+    "title": "Kunxu Funeral, Zhang Yu Takes Control",
+    "url": "/nmtci/translations/713",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 714,
+    "title": "Human or Immortal?",
+    "url": "/nmtci/translations/714",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 715,
+    "title": "Unbeatable Below Soul Transformation",
+    "url": "/nmtci/translations/715",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 716,
+    "title": "Contacting the Ten Universities, Quasi Soul Transformation?",
+    "url": "/nmtci/translations/716",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 717,
+    "title": "Countdown to Shatter the Heaven",
+    "url": "/nmtci/translations/717",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 718,
+    "title": "Zhang Yu's Third Visit, Immortal Sect Black Art",
+    "url": "/nmtci/translations/718",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 719,
+    "title": "The Massacre Plan",
+    "url": "/nmtci/translations/719",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 720,
+    "title": "Burning Legacy",
+    "url": "/nmtci/translations/720",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 721,
+    "title": "True Monarch's Special Approval — Money! Come!",
+    "url": "/nmtci/translations/721",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 722,
+    "title": "Wealth Pierces the Firmament!",
+    "url": "/nmtci/translations/722",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 723,
+    "title": "Aiding the Fallen Heavens",
+    "url": "/nmtci/translations/723",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 724,
+    "title": "Kneel",
+    "url": "/nmtci/translations/724",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 725,
+    "title": "The True Monarch Is Different",
+    "url": "/nmtci/translations/725",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 726,
+    "title": "The Heavenly Punishment Predicament",
+    "url": "/nmtci/translations/726",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 727,
+    "title": "Defeating Heaven Devourer",
+    "url": "/nmtci/translations/727",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 728,
+    "title": "The New Great Sage Cultivation Art",
+    "url": "/nmtci/translations/728",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 729,
+    "title": "Cultivating Clones, Confronting the Evil Gods",
+    "url": "/nmtci/translations/729",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 730,
+    "title": "Interview Over, Breaking Out of the Map",
+    "url": "/nmtci/translations/730",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 731,
+    "title": "Master, I'm Here",
+    "url": "/nmtci/translations/731",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 732,
+    "title": "Calamity Zhang Yu",
+    "url": "/nmtci/translations/732",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 733,
+    "title": "One Against a Hundred, Battle with Immortal Slayer",
+    "url": "/nmtci/translations/733",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 734,
+    "title": "I Am Stronger Than You Now",
+    "url": "/nmtci/translations/734",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 735,
+    "title": "Defeating Immortal Slayer, Devouring the Evil God",
+    "url": "/nmtci/translations/735",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 736,
+    "title": "Mending the Heavens",
+    "url": "/nmtci/translations/736",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 737,
+    "title": "Ten Billion to Mend the Heavens",
+    "url": "/nmtci/translations/737",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 738,
+    "title": "The Poorest Person in History, He Is the True God",
+    "url": "/nmtci/translations/738",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 739,
+    "title": "The Heavenly Court Descends",
+    "url": "/nmtci/translations/739",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 740,
+    "title": "Money Can Move Gods",
+    "url": "/nmtci/translations/740",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 741,
+    "title": "Master of Ten Billion Talisman",
+    "url": "/nmtci/translations/741",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 742,
+    "title": "The Path to Joining the Sect",
+    "url": "/nmtci/translations/742",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 743,
+    "title": "Sect Positions",
+    "url": "/nmtci/translations/743",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 744,
+    "title": "Sect Examination Fever",
+    "url": "/nmtci/translations/744",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 745,
+    "title": "Each Displays Their Divine Power",
+    "url": "/nmtci/translations/745",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 746,
+    "title": "Infinite Chain Formation Diagram, Underworld Soul-Washing Scripture",
+    "url": "/nmtci/translations/746",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 747,
+    "title": "Final Sprint Before the Exam",
+    "url": "/nmtci/translations/747",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 748,
+    "title": "The Preliminary Examination Ends — How Much Remains of the Past?",
+    "url": "/nmtci/translations/748",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 749,
+    "title": "Re-examination",
+    "url": "/nmtci/translations/749",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 750,
+    "title": "The Re-examination Ends",
+    "url": "/nmtci/translations/750",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 751,
+    "title": "The Righteous Gods' Aid, Formless Martial Art (6/6)",
+    "url": "/nmtci/translations/751",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 752,
+    "title": "Ultimate Formless Martial Art, Smashing Open the Heavenly Gate",
+    "url": "/nmtci/translations/752",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 753,
+    "title": "Nine Steps to Success!",
+    "url": "/nmtci/translations/753",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 754,
+    "title": "The Last Poor Bastard to Smash Open the Heavenly Gate!",
+    "url": "/nmtci/translations/754",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 755,
+    "title": "Tempering Jade into a King, Ten Years of Hard Study Finally Reaches the Shore",
+    "url": "/nmtci/translations/755",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 756,
+    "title": "Hymn of Heaven and Earth",
+    "url": "/nmtci/translations/756",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 757,
+    "title": "Dao Seed? Immortal Spirit Root? Reincarnation Memories?",
+    "url": "/nmtci/translations/757",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 758,
+    "title": "The Book and the Strict Dharma Realm",
+    "url": "/nmtci/translations/758",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 759,
+    "title": "The Immortal Spirit Root is Gone? Day of Departure",
+    "url": "/nmtci/translations/759",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 760,
+    "title": "Arriving at the Sect",
+    "url": "/nmtci/translations/760",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 761,
+    "title": "Dao Lineage, a New Atmosphere in the Sect",
+    "url": "/nmtci/translations/761",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 762,
+    "title": "I Alone Give Life to All Under Heaven",
+    "url": "/nmtci/translations/762",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 763,
+    "title": "Expert Benefit Exchange, Homework",
+    "url": "/nmtci/translations/763",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 764,
+    "title": "A Lost Cause",
+    "url": "/nmtci/translations/764",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 765,
+    "title": "A Young Man Arrives at the Edict Pavilion",
+    "url": "/nmtci/translations/765",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 766,
+    "title": "These Young People Just Got Here and Already Want a Promotion?",
+    "url": "/nmtci/translations/766",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 767,
+    "title": "Outstanding Work Ethic",
+    "url": "/nmtci/translations/767",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 768,
+    "title": "Setting Zhang Yu as the Benchmark",
+    "url": "/nmtci/translations/768",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 769,
+    "title": "Single-Handedly Crushing the Entire Team",
+    "url": "/nmtci/translations/769",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 770,
+    "title": "Zhang Yu Carries Group Three",
+    "url": "/nmtci/translations/770",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 771,
+    "title": "Promotion and Ascension Conditions",
+    "url": "/nmtci/translations/771",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 772,
+    "title": "No One Understands the Spirit Refining Art Better Than I Do",
+    "url": "/nmtci/translations/772",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 773,
+    "title": "Sealing the Cultivation Art",
+    "url": "/nmtci/translations/773",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 774,
+    "title": "New Group Leader, What About the Old One?",
+    "url": "/nmtci/translations/774",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 775,
+    "title": "Adaptability Assessment",
+    "url": "/nmtci/translations/775",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 776,
+    "title": "Promotion",
+    "url": "/nmtci/translations/776",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 777,
+    "title": "The Group Leader's Perk, Snatching Spiritual Energy",
+    "url": "/nmtci/translations/777",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 778,
+    "title": "Enemy, Teacher, Heavenly Sword, Immortal Sect Review",
+    "url": "/nmtci/translations/778",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 779,
+    "title": "Invitation to Join the Team",
+    "url": "/nmtci/translations/779",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 780,
+    "title": "Sect-Guarding-Tier Immortal Sect Technique",
+    "url": "/nmtci/translations/780",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 781,
+    "title": "Great Sage Researcher?",
+    "url": "/nmtci/translations/781",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 782,
+    "title": "The Great Sage's Heir, He's in the Myriad Laws Sect!",
+    "url": "/nmtci/translations/782",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 783,
+    "title": "Myriad Laws Immortal Clan",
+    "url": "/nmtci/translations/783",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 784,
+    "title": "Even My Dog Gets Special Treatment",
+    "url": "/nmtci/translations/784",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 785,
+    "title": "Bu Yingshu's Dedicated Tool",
+    "url": "/nmtci/translations/785",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 786,
+    "title": "One Day Equals Two Months",
+    "url": "/nmtci/translations/786",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 787,
+    "title": "I Am the Desolate Ox, Great Sage Researcher (10/10)",
+    "url": "/nmtci/translations/787",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 788,
+    "title": "Desolate Ox Great Sage, Immortal Dao Golden Age",
+    "url": "/nmtci/translations/788",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 789,
+    "title": "Great Sage!",
+    "url": "/nmtci/translations/789",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 790,
+    "title": "Tracking the Great Sage's Heir",
+    "url": "/nmtci/translations/790",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 791,
+    "title": "God-Slaying Permit",
+    "url": "/nmtci/translations/791",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 792,
+    "title": "Dao Seed Level 5, Sect-Guarding Technique Mastered!",
+    "url": "/nmtci/translations/792",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 793,
+    "title": "Great Sage's Heir (6/6), The Great Sage's Dao Lineage",
+    "url": "/nmtci/translations/793",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 794,
+    "title": "Panicked Like a Pauper",
+    "url": "/nmtci/translations/794",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 795,
+    "title": "The Art of Fusion",
+    "url": "/nmtci/translations/795",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 796,
+    "title": "Zhang Yu! What Are You Doing?!",
+    "url": "/nmtci/translations/796",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 797,
+    "title": "Bu Yingshu's Imprint",
+    "url": "/nmtci/translations/797",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 798,
+    "title": "Bliss Sword Dao, Lower Realm Mutual Aid",
+    "url": "/nmtci/translations/798",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 799,
+    "title": "Le Mulan's Whereabouts, Zhang Yu's New Position",
+    "url": "/nmtci/translations/799",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 800,
+    "title": "The Former Days Graveyard, Fu Xiantian's Legacy",
+    "url": "/nmtci/translations/800",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 801,
+    "title": "Immortal Descendant Level 2, My Successor",
+    "url": "/nmtci/translations/801",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 802,
+    "title": "Soul-Illuminating Grotto-Heaven, Joining the Graveyard",
+    "url": "/nmtci/translations/802",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 803,
+    "title": "Receiving the Immortal Shuttle, Tackling the Soul Transformation Realm",
+    "url": "/nmtci/translations/803",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 804,
+    "title": "Soul Transformation!",
+    "url": "/nmtci/translations/804",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 805,
+    "title": "Mutated Cultivation Art, Old Zhao, Soul Transformation Dao Body (10/10)",
+    "url": "/nmtci/translations/805",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 806,
+    "title": "Who is Righteous, Who is Demonic?",
+    "url": "/nmtci/translations/806",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 807,
+    "title": "Immortal Descendant Level 3",
+    "url": "/nmtci/translations/807",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 808,
+    "title": "Did He Just Get Obliterated?",
+    "url": "/nmtci/translations/808",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 809,
+    "title": "Trespassing on Immortal Grounds",
+    "url": "/nmtci/translations/809",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 810,
+    "title": "Heavenly Demon Grandma Arrives",
+    "url": "/nmtci/translations/810",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 811,
+    "title": "Untitled",
+    "url": "/nmtci/translations/811",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 812,
+    "title": "Everyone in the World is a Demon",
+    "url": "/nmtci/translations/812",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 813,
+    "title": "Grotto-Heaven Bridge, Myriad Bone Melder, New Technology",
+    "url": "/nmtci/translations/813",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 814,
+    "title": "Zhang Yu's Grotto-Heaven Production Line",
+    "url": "/nmtci/translations/814",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 815,
+    "title": "Immortal Dao Connections, All for Profit; Occupational Curse (10/10)",
+    "url": "/nmtci/translations/815",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 816,
+    "title": "Accidentally Wounding Immortal Family",
+    "url": "/nmtci/translations/816",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 817,
+    "title": "Starring Zhang Yu, Supreme Truth",
+    "url": "/nmtci/translations/817",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 818,
+    "title": "Yun Taizhen's Choice, Immortal Descendant Level 5",
+    "url": "/nmtci/translations/818",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 819,
+    "title": "The Scramble for the Immortal Legacy",
+    "url": "/nmtci/translations/819",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 820,
+    "title": "Why Would It Be Given to Zhang Yu?!",
+    "url": "/nmtci/translations/820",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 821,
+    "title": "Immortal Descendant Level 6, The New Generation's Successor",
+    "url": "/nmtci/translations/821",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 822,
+    "title": "Suppressing Aikun, Taking Control of the Labyrinth",
+    "url": "/nmtci/translations/822",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 823,
+    "title": "Dao Monarch Bu, Your Strategy Was Invaluable",
+    "url": "/nmtci/translations/823",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 824,
+    "title": "A Blade Thrust at Supreme Truth",
+    "url": "/nmtci/translations/824",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 825,
+    "title": "The Storm Unleashed by Zhang Yu",
+    "url": "/nmtci/translations/825",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 826,
+    "title": "Yingshu's Scheme, Punishment List Revealed",
+    "url": "/nmtci/translations/826",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 827,
+    "title": "Kunxu Hero Zhang Yu",
+    "url": "/nmtci/translations/827",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 828,
+    "title": "Our Kunxu Dream",
+    "url": "/nmtci/translations/828",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 829,
+    "title": "The Gathering Storm",
+    "url": "/nmtci/translations/829",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 830,
+    "title": "The Stronger the Cultivation, the Greater the Power",
+    "url": "/nmtci/translations/830",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 831,
+    "title": "Zhang Yu's Goblin Cave?",
+    "url": "/nmtci/translations/831",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 832,
+    "title": "A Young Man Joins the Committee, Let the Corpse Components Fly",
+    "url": "/nmtci/translations/832",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 833,
+    "title": "The Outsourcing-Friendly Leader",
+    "url": "/nmtci/translations/833",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 834,
+    "title": "Zhang Yu, Bai Zhenzhen, What Are You Doing?",
+    "url": "/nmtci/translations/834",
+    "date": "2026-03-15"
+  }
+]

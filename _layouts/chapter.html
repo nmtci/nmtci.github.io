@@ -1,0 +1,1095 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{{ page.title }} | No Money to Cultivate Immortality</title>
+        <meta name="theme-color" content="#333333" />
+        <link
+            rel="icon"
+            type="image/png"
+            href="{{ '/assets/icons/favicon-96x96.png' | relative_url }}"
+            sizes="96x96"
+        />
+        <link
+            rel="icon"
+            type="image/svg+xml"
+            href="{{ '/assets/icons/favicon.svg' | relative_url }}"
+        />
+        <link
+            rel="shortcut icon"
+            href="{{ '/assets/icons/favicon.ico' | relative_url }}"
+        />
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="{{ '/assets/icons/apple-touch-icon.png' | relative_url }}"
+        />
+        <meta name="apple-mobile-web-app-title" content="NMTCI" />
+        <link
+            rel="manifest"
+            href="{{ '/assets/icons/site.webmanifest' | relative_url }}"
+        />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Bitter:ital,wght@0,100..900;1,100..900&family=Caveat:wght@400..700&family=Coming+Soon&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fira+Mono:wght@400;500;700&family=Indie+Flower&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Merriweather:ital,wght@0,300..900;1,300..900&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Patrick+Hand&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap"
+            rel="stylesheet"
+            media="print"
+            onload="this.media = 'all'"
+        />
+        <noscript>
+            <link
+                href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Bitter:ital,wght@0,100..900;1,100..900&family=Caveat:wght@400..700&family=Coming+Soon&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fira+Mono:wght@400;500;700&family=Indie+Flower&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Merriweather:ital,wght@0,300..900;1,300..900&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Patrick+Hand&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap"
+                rel="stylesheet"
+            />
+        </noscript>
+        <link
+            rel="stylesheet"
+            href="{{ '/assets/css/styles.css' | relative_url }}"
+        />
+        <link
+            rel="stylesheet"
+            href="{{ '/assets/css/highlights.css' | relative_url }}"
+        />
+        <style>
+            body {
+                touch-action: pan-y;
+            }
+
+            #content {
+                max-width: 800px;
+                font-family: var(--font-family);
+                font-size: var(--text-size);
+                line-height: var(--line-height);
+                letter-spacing: var(--letter-spacing);
+                margin: 0 auto;
+                padding: 40px 20px;
+                padding-top: 0;
+                content-visibility: auto;
+                contain-intrinsic-size: 1000px;
+                transition: all 0.05s ease-in-out;
+            }
+
+            #content p {
+                text-indent: var(--para-indent);
+                margin-bottom: 1em;
+                margin-top: 0;
+            }
+
+            #content a {
+                color: inherit;
+                text-decoration: none;
+                border-bottom: 1px solid var(--border-color);
+                cursor: pointer;
+                font-weight: 600;
+                padding: 2px 4px;
+                margin: 0 -4px;
+                border-radius: 4px;
+                -webkit-box-decoration-break: clone;
+                box-decoration-break: clone;
+                transition:
+                    background-color 0.2s,
+                    border-color 0.2s,
+                    color 0.2s;
+            }
+
+            #content a:hover {
+                background-color: var(--hover-bg);
+                border-bottom-color: var(--text-color);
+                border-radius: 4px;
+                color: var(--text-color);
+            }
+
+            #content hr {
+                border: 0;
+                height: 2px;
+                background-image: linear-gradient(
+                    to right,
+                    transparent,
+                    var(--border-color),
+                    transparent
+                );
+                margin: 3em auto;
+                width: 60%;
+                opacity: 0.8;
+            }
+
+            .active-reading {
+                background-color: var(--hover-bg);
+                border-left: 4px solid var(--accent-color);
+                padding-left: 12px;
+                border-radius: 4px;
+                transition: all 0.3s ease;
+            }
+
+            #progress-container {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 4px;
+                background: transparent;
+                z-index: 2000;
+            }
+
+            #progress-bar {
+                height: 100%;
+                background: var(--accent-color);
+                width: 0%;
+                transition: width 0.1s;
+                opacity: 0.8;
+            }
+
+            .chapter-nav {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                gap: 20px;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 0 20px;
+                width: 100%;
+                user-select: none;
+            }
+
+            .sticky-bar {
+                position: -webkit-sticky;
+                position: sticky;
+                top: 0;
+                z-index: 900;
+                width: 100%;
+                background-color: var(--bg-color);
+                padding: 15px 0;
+                border-bottom: 1px solid transparent;
+                transition:
+                    box-shadow 0.3s ease,
+                    border-color 0.3s ease;
+            }
+
+            .sticky-bar.stuck,
+            .chapter-nav.sticky-top.stuck {
+                border-bottom: 1px solid var(--border-color);
+                box-shadow: 0 4px 6px -4px var(--shadow-color);
+            }
+
+            .bottom-nav {
+                padding-top: 20px;
+                padding-bottom: 60px;
+            }
+
+            .nav-link {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 12px 24px;
+                border: 1px solid var(--border-color);
+                border-radius: 50px;
+                color: var(--text-color);
+                text-decoration: none;
+                transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+                font-weight: 600;
+                font-size: 0.9rem;
+                letter-spacing: 0.5px;
+                background-color: transparent;
+                min-width: 120px;
+            }
+
+            .nav-link:not(.disabled):hover {
+                background-color: var(--text-color);
+                color: var(--bg-color);
+                border-color: var(--text-color);
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px var(--shadow-color);
+            }
+
+            .nav-link:active {
+                transform: scale(0.95);
+            }
+
+            .nav-link.disabled {
+                opacity: 0;
+                pointer-events: none;
+                visibility: hidden;
+            }
+
+            #sentinel {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 1px;
+                width: 100%;
+                pointer-events: none;
+                visibility: hidden;
+            }
+
+            .page-footer {
+                text-align: center;
+                padding: 0 20px 60px;
+                margin-top: -30px;
+                font-size: 0.85rem;
+                color: var(--text-color);
+                opacity: 0.7;
+                font-family: "Open Sans", sans-serif;
+            }
+
+            .discord-btn {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                gap: 6px;
+                padding: 6px 16px;
+                margin: 20px auto;
+                background-color: #5865f2;
+                color: #ffffff !important;
+                border-radius: 50px;
+                text-decoration: none;
+                font-weight: 600;
+                font-size: 13px;
+                line-height: 1;
+                border: 1px solid #5865f2;
+                transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+                box-shadow: 0 2px 4px var(--shadow-color);
+            }
+
+            .discord-btn:hover {
+                background-color: #4752c4;
+                border-color: #4752c4;
+                transform: translateY(-2px);
+                box-shadow: 0 6px 15px var(--shadow-color);
+            }
+
+            .discord-btn:active {
+                transform: scale(0.96);
+            }
+
+            [data-theme="sepia"] .discord-btn {
+                filter: sepia(0.15);
+            }
+
+            .audio-toolbar-wrapper {
+                max-width: 800px;
+                margin: 20px auto 30px;
+                padding: 0 20px;
+                position: relative;
+                z-index: 5;
+            }
+
+            .audio-toolbar-wrapper.floating {
+                position: fixed;
+                top: 85px;
+                left: 50%;
+                transform: translateX(-50%);
+                z-index: 950;
+                margin: 0;
+                width: auto;
+                border-radius: 50px;
+                animation: slideInFade 0.3s ease-out;
+            }
+
+            .audio-toolbar {
+                display: flex;
+                align-items: center;
+                background: var(--menu-bg);
+                border: 1px solid var(--border-color);
+                border-radius: 50px;
+                padding: 6px 8px;
+                width: fit-content;
+                box-shadow: 0 2px 10px var(--shadow-color);
+                transition: all 0.3s ease;
+            }
+
+            .audio-toolbar:hover {
+                box-shadow: 0 4px 15px var(--shadow-color);
+                transform: translateY(-1px);
+            }
+
+            .audio-main-btn {
+                background: transparent;
+                border: none;
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                padding: 8px 16px 8px 12px;
+                border-radius: 40px;
+                color: var(--text-color);
+                font-family: "Open Sans", serif;
+                font-weight: 600;
+                font-size: 0.95rem;
+                transition: background 0.2s;
+            }
+
+            .audio-main-btn:hover {
+                background: var(--hover-bg);
+            }
+
+            .audio-main-btn svg {
+                width: 24px;
+                height: 24px;
+                fill: var(--accent-color);
+            }
+
+            .audio-separator {
+                width: 1px;
+                height: 24px;
+                background: var(--border-color);
+                margin: 0 4px;
+            }
+
+            .audio-settings-btn {
+                background: transparent;
+                border: none;
+                cursor: pointer;
+                padding: 8px;
+                border-radius: 50%;
+                color: var(--text-color);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                transition: background 0.2s;
+                opacity: 0.7;
+            }
+
+            .audio-settings-btn:hover {
+                background: var(--hover-bg);
+                opacity: 1;
+            }
+
+            .audio-settings-btn svg {
+                width: 20px;
+                height: 20px;
+            }
+
+            .audio-menu {
+                position: absolute;
+                top: 100%;
+                left: 20px;
+                margin-top: 10px;
+                background: var(--menu-bg);
+                border: 1px solid var(--border-color);
+                padding: 20px;
+                border-radius: 16px;
+                width: 300px;
+                box-shadow: 0 10px 40px var(--shadow-color);
+                opacity: 0;
+                visibility: hidden;
+                transform: translateY(-10px);
+                transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+                z-index: 100;
+            }
+
+            .audio-menu.active {
+                opacity: 1;
+                visibility: visible;
+                transform: translateY(0);
+            }
+
+            .audio-toolbar-wrapper.floating .audio-menu {
+                top: 110%;
+                left: 50%;
+                transform: translateX(-50%);
+            }
+
+            .special-announcement {
+                margin: 2.5em 0;
+                padding: 0 1em;
+                font-weight: 700;
+                font-style: italic;
+            }
+
+            .reading-time-container {
+                font-size: 0.85rem;
+                color: var(--text-color);
+                opacity: 0.7;
+                margin-bottom: 2em;
+                font-family: "Open Sans", sans-serif;
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                padding: 0 20px;
+            }
+
+            .reading-time-icon {
+                width: 16px;
+                height: 16px;
+                fill: none;
+                stroke: currentColor;
+                stroke-width: 2;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+
+            @keyframes slideInFade {
+                from {
+                    opacity: 0;
+                    transform: translate(-50%, -10px);
+                }
+
+                to {
+                    opacity: 1;
+                    transform: translate(-50%, 0);
+                }
+            }
+
+            @media (max-width: 600px) {
+                .chapter-nav {
+                    margin: 0;
+                    gap: 8px;
+                }
+
+                #content {
+                    padding-top: 15px;
+                }
+
+                .settings-menu {
+                    position: fixed;
+                    width: auto;
+                    left: 20px;
+                    right: 20px;
+                    bottom: 100px;
+                    margin-bottom: 0;
+                    transform-origin: bottom center;
+                }
+
+                .nav-link {
+                    padding: 10px 5px;
+                    flex: 1;
+                    min-width: 0;
+                    font-size: 0.85rem;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    overflow: hidden;
+                }
+
+                .chapter-nav.sticky-top {
+                    padding: 10px 15px;
+                }
+
+                h1 {
+                    font-size: 1.5rem;
+                    line-height: 1.3;
+                    margin-top: 0;
+                    margin-bottom: 20px;
+                }
+            }
+        </style>
+        <script>
+            (function () {
+                try {
+                    var savedSettings = localStorage.getItem("reader-settings");
+                    var theme = "light";
+                    var fontSize = "18px";
+                    var lineHeight = "1.6";
+                    var fontFamily = "'Open Sans', sans-serif";
+
+                    if (savedSettings) {
+                        var settings = JSON.parse(savedSettings);
+                        theme = settings.theme || "light";
+                        fontSize = (settings.fontSize || 18) + "px";
+                        lineHeight = settings.lineHeight || 1.6;
+                        if (settings.fontFamily)
+                            fontFamily = settings.fontFamily;
+                    }
+
+                    const themes = {
+                        light: { bg: "#fdfdfd", text: "#333333" },
+                        sepia: { bg: "#f4ecd8", text: "#5b4636" },
+                        dark: { bg: "#222222", text: "#d1d1d1" },
+                        midnight: { bg: "#2b323b", text: "#c4cdd5" },
+                        forest: { bg: "#e8f5e9", text: "#2d3b2d" },
+                        amoled: { bg: "#000000", text: "#b3b3b3" },
+                    };
+
+                    var activeTheme = themes[theme] || themes.light;
+                    var root = document.documentElement;
+
+                    root.style.setProperty("--bg-color", activeTheme.bg);
+                    root.style.setProperty("--text-color", activeTheme.text);
+
+                    root.setAttribute("data-theme", theme);
+                } catch (e) {
+                    console.error("Theme initialization failed", e);
+                }
+            })();
+        </script>
+    </head>
+
+    <body>
+        <div id="progress-container">
+            <div id="progress-bar"></div>
+        </div>
+
+        <div id="sentinel"></div>
+
+        <div class="sticky-bar" id="topNav">
+            <nav class="chapter-nav">
+                <a class="nav-link nav-prev">← Previous</a>
+                <a class="nav-link nav-toc" href="/nmtci/">Index</a>
+                <a class="nav-link nav-next">Next →</a>
+            </nav>
+        </div>
+
+        <div class="audio-toolbar-wrapper">
+            <div class="audio-toolbar">
+                <button
+                    id="toggleAudio"
+                    class="audio-main-btn"
+                    aria-label="Play Audio"
+                >
+                    <svg id="icon-play" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M8 5v14l11-7z" />
+                    </svg>
+                    <svg
+                        id="icon-pause"
+                        style="display: none"
+                        viewBox="0 0 24 24"
+                        fill="currentColor"
+                    >
+                        <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+                    </svg>
+                    <span id="audio-status-text">Listen</span>
+                </button>
+
+                <div class="audio-separator"></div>
+
+                <button
+                    id="toggleAudioSettings"
+                    class="audio-settings-btn"
+                    aria-label="Audio Options"
+                >
+                    <svg viewBox="0 0 24 24" fill="currentColor">
+                        <path
+                            d="M3 17v2h6v-2H3zM3 5v2h10V5H3zm10 16v-2h8v-2h-8v-2h-2v6h2zM7 9v2H3v2h4v2h2V9H7zm14 4v-2H11v2h10zm-6-4h2V7h4V5h-4V3h-2v6z"
+                        />
+                    </svg>
+                </button>
+            </div>
+
+            <div id="audioSettingsMenu" class="audio-menu">
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label>Voice</label>
+                    </div>
+                    <div class="select-wrapper">
+                        <select id="input-voice"></select>
+                    </div>
+                </div>
+
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label>Speed</label>
+                        <span id="rate-val" class="value-display">1x</span>
+                    </div>
+                    <input
+                        type="range"
+                        id="input-rate"
+                        min="0.5"
+                        max="2"
+                        step="0.1"
+                        value="1"
+                    />
+                </div>
+
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label>Pitch</label>
+                        <span id="pitch-val" class="value-display">1</span>
+                    </div>
+                    <input
+                        type="range"
+                        id="input-pitch"
+                        min="0"
+                        max="2"
+                        step="0.1"
+                        value="1"
+                    />
+                </div>
+            </div>
+        </div>
+
+        <div id="content">{{content}}</div>
+
+        <div style="text-align: center">
+            <a
+                href="https://discord.gg/YWpdPycmWk"
+                class="discord-btn"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <svg
+                    width="18"
+                    height="18"
+                    viewBox="0 0 24 24"
+                    fill="white"
+                    xmlns="http://www.w3.org/2000/svg"
+                >
+                    <path
+                        d="M20.317 4.3698a19.7913 19.7913 0 0 0-4.8851-1.5152.0741.0741 0 0 0-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 0 0-.0785-.037 19.7363 19.7363 0 0 0-4.8852 1.515.0699.0699 0 0 0-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 0 0 .0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 0 0 .0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 0 0-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 0 1-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 0 1 .0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 0 1 .0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 0 1-.0066.1276 12.2986 12.2986 0 0 1-1.873.8914.0766.0766 0 0 0-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 0 0 .0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 0 0 .0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 0 0-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.419-2.1568 2.419zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.419-2.1568 2.419z"
+                    />
+                </svg>
+                Join the conversation on Discord
+            </a>
+        </div>
+
+        <nav class="chapter-nav bottom-nav">
+            <a class="nav-link nav-prev">← Previous</a>
+            <a class="nav-link nav-toc" href="/nmtci/">Index</a>
+            <a class="nav-link nav-next">Next →</a>
+        </nav>
+
+        <footer class="page-footer">
+            Translated with ❤️ by Nameless &amp; Thundergod95
+        </footer>
+
+        <div class="fab-container">
+            <div class="settings-menu" id="settingsMenu">
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label>Font Size</label>
+                        <span id="fs-val" class="value-display">18px</span>
+                    </div>
+                    <input
+                        type="range"
+                        id="input-fontsize"
+                        min="14"
+                        max="32"
+                        value="18"
+                    />
+                </div>
+
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label>Line Height</label>
+                        <span id="lh-val" class="value-display">1.6</span>
+                    </div>
+                    <input
+                        type="range"
+                        id="input-lineheight"
+                        min="1.2"
+                        max="2.4"
+                        step="0.1"
+                        value="1.6"
+                    />
+                </div>
+
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label>Letter Spacing</label>
+                        <span id="spacing-val" class="value-display">0px</span>
+                    </div>
+                    <input
+                        type="range"
+                        id="input-spacing"
+                        min="-1"
+                        max="3"
+                        step="0.5"
+                        value="0"
+                    />
+                </div>
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label for="input-font">Typeface</label>
+                    </div>
+                    <div class="select-wrapper">
+                        <select id="input-font">
+                            <option value="'Open Sans', sans-serif">
+                                Open Sans (Sans)
+                            </option>
+                            <option value="'Merriweather Sans', sans-serif">
+                                Merriweather Sans (Sans)
+                            </option>
+                            <option value="'Nunito Sans', sans-serif">
+                                Nunito Sans (Sans)
+                            </option>
+                            <option value="'Prompt', sans-serif">
+                                Prompt (Sans)
+                            </option>
+                            <option value="'Ubuntu', sans-serif">
+                                Ubuntu (Sans)
+                            </option>
+                            <option value="'Ysabeau Office', sans-serif">
+                                Ysabeau Office (Sans)
+                            </option>
+
+                            <option value="'Baskervville', serif">
+                                Baskervville (Serif)
+                            </option>
+                            <option value="'Bitter', serif">
+                                Bitter (Serif)
+                            </option>
+                            <option value="'EB Garamond', serif">
+                                EB Garamond (Serif)
+                            </option>
+                            <option value="'Literata', serif">
+                                Literata (Serif)
+                            </option>
+                            <option value="'Merriweather', serif">
+                                Merriweather (Serif)
+                            </option>
+
+                            <option value="'Coming Soon', cursive">
+                                Coming Soon
+                            </option>
+                            <option value="'Caveat', cursive">Caveat</option>
+                            <option value="'Indie Flower', cursive">
+                                Indie Flower
+                            </option>
+                            <option value="'Patrick Hand', cursive">
+                                Patrick Hand
+                            </option>
+                        </select>
+                    </div>
+                </div>
+                <div class="setting-row">
+                    <div class="setting-item">
+                        <div class="setting-header">
+                            <label>Paragraph Style</label>
+                        </div>
+                        <div class="segmented-control" id="para-style-btns">
+                            <button
+                                class="segment-btn active"
+                                data-style="block"
+                                aria-label="Block Style"
+                            >
+                                <svg viewBox="0 0 24 24" fill="currentColor">
+                                    <path
+                                        d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"
+                                    />
+                                </svg>
+                            </button>
+                            <button
+                                class="segment-btn"
+                                data-style="indent"
+                                aria-label="Indented Style"
+                            >
+                                <svg viewBox="0 0 24 24" fill="currentColor">
+                                    <path
+                                        d="M10 6h10v2H10zm-6 5h16v2H4zm0 5h16v2H4z"
+                                    />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="setting-item">
+                    <div class="setting-header">
+                        <label>Theme</label>
+                    </div>
+                    <div class="theme-selector">
+                        <button
+                            class="theme-btn"
+                            data-theme="light"
+                            style="background-color: #fdfdfd"
+                            aria-label="Light"
+                        ></button>
+                        <button
+                            class="theme-btn"
+                            data-theme="sepia"
+                            style="background-color: #f4ecd8"
+                            aria-label="Sepia"
+                        ></button>
+                        <button
+                            class="theme-btn"
+                            data-theme="dark"
+                            style="background-color: #222222"
+                            aria-label="Dark"
+                        ></button>
+
+                        <button
+                            class="theme-btn"
+                            data-theme="midnight"
+                            style="background-color: #2b323b"
+                            aria-label="Midnight"
+                        ></button>
+                        <button
+                            class="theme-btn"
+                            data-theme="forest"
+                            style="background-color: #e8f5e9"
+                            aria-label="Forest"
+                        ></button>
+                        <button
+                            class="theme-btn"
+                            data-theme="amoled"
+                            style="
+                                background-color: #000000;
+                                border: 1px solid #444;
+                            "
+                            aria-label="AMOLED"
+                        ></button>
+                    </div>
+                </div>
+            </div>
+
+            <button
+                class="settings-btn"
+                id="toggleHighlightsList"
+                aria-label="View All Highlights"
+                style="margin-bottom: 12px"
+            >
+                <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                >
+                    <path
+                        d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"
+                    ></path>
+                    <polyline points="14 2 14 8 20 8"></polyline>
+                    <line x1="16" y1="13" x2="8" y2="13"></line>
+                    <line x1="16" y1="17" x2="8" y2="17"></line>
+                    <line x1="10" y1="9" x2="8" y2="9"></line>
+                </svg>
+            </button>
+
+            <button
+                class="settings-btn"
+                id="toggleSettings"
+                aria-label="Settings"
+            >
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    height="24"
+                    width="24"
+                    viewBox="0 0 640 640"
+                >
+                    <path
+                        d="M259.1 73.5C262.1 58.7 275.2 48 290.4 48L350.2 48C365.4 48 378.5 58.7 381.5 73.5L396 143.5C410.1 149.5 423.3 157.2 435.3 166.3L503.1 143.8C517.5 139 533.3 145 540.9 158.2L570.8 210C578.4 223.2 575.7 239.8 564.3 249.9L511 297.3C511.9 304.7 512.3 312.3 512.3 320C512.3 327.7 511.8 335.3 511 342.7L564.4 390.2C575.8 400.3 578.4 417 570.9 430.1L541 481.9C533.4 495 517.6 501.1 503.2 496.3L435.4 473.8C423.3 482.9 410.1 490.5 396.1 496.6L381.7 566.5C378.6 581.4 365.5 592 350.4 592L290.6 592C275.4 592 262.3 581.3 259.3 566.5L244.9 496.6C230.8 490.6 217.7 482.9 205.6 473.8L137.5 496.3C123.1 501.1 107.3 495.1 99.7 481.9L69.8 430.1C62.2 416.9 64.9 400.3 76.3 390.2L129.7 342.7C128.8 335.3 128.4 327.7 128.4 320C128.4 312.3 128.9 304.7 129.7 297.3L76.3 249.8C64.9 239.7 62.3 223 69.8 209.9L99.7 158.1C107.3 144.9 123.1 138.9 137.5 143.7L205.3 166.2C217.4 157.1 230.6 149.5 244.6 143.4L259.1 73.5zM320.3 400C364.5 399.8 400.2 363.9 400 319.7C399.8 275.5 363.9 239.8 319.7 240C275.5 240.2 239.8 276.1 240 320.3C240.2 364.5 276.1 400.2 320.3 400z"
+                    />
+                </svg>
+            </button>
+        </div>
+
+        <div id="highlight-toolbar" style="display: none">
+            <div class="hl-group">
+                <button
+                    class="hl-btn-color hl-btn-yellow"
+                    data-color="yellow"
+                    title="Yellow"
+                ></button>
+                <button
+                    class="hl-btn-color hl-btn-green"
+                    data-color="green"
+                    title="Green"
+                ></button>
+                <button
+                    class="hl-btn-color hl-btn-blue"
+                    data-color="blue"
+                    title="Blue"
+                ></button>
+                <button
+                    class="hl-btn-color hl-btn-red"
+                    data-color="red"
+                    title="Red"
+                ></button>
+            </div>
+
+            <div class="hl-divider"></div>
+
+            <div class="hl-group">
+                <button class="icon-btn note-btn" title="Add Note">
+                    <svg
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                    >
+                        <path
+                            d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                        ></path>
+                        <path
+                            d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                        ></path>
+                    </svg>
+                </button>
+                <button class="icon-btn delete-btn" title="Remove Highlight">
+                    <svg
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                    >
+                        <polyline points="3 6 5 6 21 6"></polyline>
+                        <path
+                            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                        ></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="modal-overlay" id="noteOverlay">
+            <div class="modal" id="noteModal">
+                <div class="modal-header">
+                    <h3>Highlight Note</h3>
+                </div>
+                <textarea
+                    id="noteInput"
+                    placeholder="Add your thoughts here..."
+                ></textarea>
+                <div class="modal-actions">
+                    <button class="ui-button btn-secondary" id="cancelNote">
+                        Cancel
+                    </button>
+                    <button class="ui-button btn-primary" id="saveNote">
+                        Save Note
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal-overlay" id="overviewOverlay">
+            <div class="modal overview-modal">
+                <div class="modal-header">
+                    <h3>My Highlights & Notes</h3>
+                    <button
+                        class="icon-btn"
+                        id="closeOverview"
+                        aria-label="Close"
+                    >
+                        <svg
+                            viewBox="0 0 24 24"
+                            width="24"
+                            height="24"
+                            stroke="currentColor"
+                            stroke-width="2"
+                            fill="none"
+                        >
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div class="overview-controls">
+                    <div class="search-wrapper">
+                        <svg
+                            class="search-icon"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="16"
+                            height="16"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="2"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                        >
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                        <input
+                            type="text"
+                            id="overviewSearch"
+                            placeholder="Search text or notes..."
+                        />
+                    </div>
+
+                    <div class="sort-group">
+                        <button
+                            class="icon-btn sort-btn active"
+                            data-value="chapter"
+                            title="Group by Chapter"
+                        >
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="16"
+                                height="16"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                            >
+                                <path
+                                    d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"
+                                ></path>
+                                <path
+                                    d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"
+                                ></path>
+                            </svg>
+                        </button>
+                        <button
+                            class="icon-btn sort-btn"
+                            data-value="newest"
+                            title="Newest First"
+                        >
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="16"
+                                height="16"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                            >
+                                <line x1="12" y1="5" x2="12" y2="19"></line>
+                                <polyline points="19 12 12 19 5 12"></polyline>
+                            </svg>
+                        </button>
+                        <button
+                            class="icon-btn sort-btn"
+                            data-value="oldest"
+                            title="Oldest First"
+                        >
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="16"
+                                height="16"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                            >
+                                <line x1="12" y1="19" x2="12" y2="5"></line>
+                                <polyline points="5 12 12 5 19 12"></polyline>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div class="overview-content" id="overviewContent"></div>
+            </div>
+        </div>
+
+        <script>
+            const PREV_CHAPTER_NUM = "{{ page.prev }}";
+            const NEXT_CHAPTER_NUM = "{{ page.next }}";
+            const CHAPTER_TITLE = `{{ page.title }}`;
+            const CHAPTER_NUM = "{{ page.id }}";
+        </script>
+        <script src="{{ '/assets/js/vendor/floating-ui/core.js' | relative_url }}"></script>
+        <script src="{{ '/assets/js/vendor/floating-ui/dom.js' | relative_url }}"></script>
+        <script src="{{ '/assets/js/chapter.js' | relative_url }}"></script>
+        <script src="{{ '/assets/js/highlight.js' | relative_url }}"></script>
+        <script src="{{ '/assets/js/audio.js' | relative_url }}"></script>
+        <script>
+            if ("serviceWorker" in navigator) {
+                window.addEventListener("load", () => {
+                    navigator.serviceWorker
+                        .register("{{ '/sw.js' | relative_url }}")
+                        .then((reg) =>
+                            console.log("Service Worker registered!", reg),
+                        )
+                        .catch((err) =>
+                            console.log("Registration failed:", err),
+                        );
+                });
+            }
+        </script>
+    </body>
+</html>
