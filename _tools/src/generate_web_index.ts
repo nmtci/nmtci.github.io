@@ -8,7 +8,7 @@ const CONFIG = {
     targetDir: join(PROJECT_ROOT, "translations"),
     outputFile: join(PROJECT_ROOT, "chapters.json"),
     chapterPattern: /^#{1,6}\s+Chapter\s+([\d\.]+)(?:\s*[:\-–])?\s*(.*)$/im,
-    urlPrefix: "/nmtci/translations",
+    urlPrefix: "/translations",
 } as const;
 
 interface Chapter {

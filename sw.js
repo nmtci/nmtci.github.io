@@ -1,20 +1,20 @@
 const CACHE_NAME = "nmtci-cache-v25";
 const ASSETS = [
-    "/nmtci/",
-    "/nmtci/index.html",
-    "/nmtci/assets/css/styles.css",
-    "/nmtci/assets/js/index.js",
-    "/nmtci/assets/js/chapter.js",
-    "/nmtci/assets/js/highlight.js",
-    "/nmtci/assets/js/audio.js",
-    "/nmtci/assets/css/highlights.css",
-    "/nmtci/assets/js/vendor/floating-ui/core.js",
-    "/nmtci/assets/js/vendor/floating-ui/dom.js",
-    "/nmtci/offline.html",
-    "/nmtci/assets/img/nmtci.jpg",
-    "/nmtci/assets/icons/favicon-96x96.png",
-    "/nmtci/assets/icons/favicon.svg",
-    "/nmtci/chapters.json",
+    "/",
+    "/index.html",
+    "/assets/css/styles.css",
+    "/assets/js/index.js",
+    "/assets/js/chapter.js",
+    "/assets/js/highlight.js",
+    "/assets/js/audio.js",
+    "/assets/css/highlights.css",
+    "/assets/js/vendor/floating-ui/core.js",
+    "/assets/js/vendor/floating-ui/dom.js",
+    "/offline.html",
+    "/assets/img/nmtci.jpg",
+    "/assets/icons/favicon-96x96.png",
+    "/assets/icons/favicon.svg",
+    "/chapters.json",
 ];
 
 self.addEventListener("install", (event) => {
@@ -149,7 +149,7 @@ self.addEventListener("fetch", (event) => {
                         event.request.mode === "navigate" ||
                         event.request.destination === "document"
                     ) {
-                        return caches.match("/nmtci/offline.html");
+                        return caches.match("/offline.html");
                     }
                 });
 

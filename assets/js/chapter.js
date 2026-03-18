@@ -61,8 +61,8 @@ const DOM = {
 };
 
 const NavigationManager = {
-    prevUrl: PREV_CHAPTER_NUM ? `/nmtci/translations/${PREV_CHAPTER_NUM}` : "",
-    nextUrl: NEXT_CHAPTER_NUM ? `/nmtci/translations/${NEXT_CHAPTER_NUM}` : "",
+    prevUrl: PREV_CHAPTER_NUM ? `/translations/${PREV_CHAPTER_NUM}` : "",
+    nextUrl: NEXT_CHAPTER_NUM ? `/translations/${NEXT_CHAPTER_NUM}` : "",
 
     init() {
         this.updateLinks();
@@ -107,7 +107,7 @@ const NavigationManager = {
         }
 
         try {
-            const response = await fetch("/nmtci/chapters.json");
+            const response = await fetch("/chapters.json");
             if (!response.ok) return;
 
             const chapters = await response.json();
