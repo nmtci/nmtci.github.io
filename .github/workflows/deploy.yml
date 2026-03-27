@@ -37,6 +37,14 @@ jobs:
               working-directory: _tools
               run: bun install --frozen-lockfile
 
+            - name: Download previous index state
+              uses: dawidd6/action-download-artifact@v3
+              with:
+                  workflow: "deploy.yml"
+                  name: chapters-artifact
+                  path: .
+                  if_no_artifact_found: warn
+
             - name: Run index generation script
               working-directory: _tools
               run: bun run src/generate_web_index.ts
