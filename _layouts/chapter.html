@@ -429,6 +429,33 @@
                 stroke-linejoin: round;
             }
 
+            .spoiler {
+                color: transparent;
+                text-shadow: 0 0 10px var(--text-color);
+                background-color: var(--hover-bg);
+                border-radius: 4px;
+                padding: 0 4px;
+                cursor: pointer;
+                user-select: none;
+                transition:
+                    text-shadow 0.3s ease,
+                    color 0.3s ease,
+                    background-color 0.3s ease;
+            }
+
+            .spoiler:hover {
+                text-shadow: 0 0 6px var(--text-color);
+                background-color: var(--border-color);
+            }
+
+            .spoiler.revealed {
+                color: inherit;
+                text-shadow: none;
+                background-color: transparent;
+                user-select: auto;
+                cursor: text;
+            }
+
             @keyframes slideInFade {
                 from {
                     opacity: 0;
