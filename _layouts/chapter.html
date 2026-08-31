@@ -110,7 +110,8 @@
                 color: var(--text-color);
             }
 
-            #content hr {
+            #content hr,
+            #content .footnotes::before {
                 border: 0;
                 height: 2px;
                 background-image: linear-gradient(
@@ -122,6 +123,11 @@
                 margin: 3em auto;
                 width: 60%;
                 opacity: 0.8;
+            }
+
+            #content .footnotes::before {
+                content: "";
+                display: block;
             }
 
             .active-reading {
